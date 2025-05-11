@@ -1,124 +1,370 @@
-PORTAL : http://ix.kingtv.pw/c
-MAC : 00:1A:79:9E:88:06
-MAC : 00:1A:79:08:EE:7A
-MAC : 00:1A:79:9E:86:09
-MAC : 00:1A:79:AF:34:AC
-MAC : 00:1A:79:9E:88:EB
-MAC : 00:1A:79:13:51:C6
+🛰 PORTAL : http://restream.cdn-4k.cloud/c
 
-├──● 🅟🅞🅡🅣🅐🅛 🅤🅡🅛 ➤➤ http://scottishbest.club:80/c/
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:95:5b:30
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:43:83:92
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:8d:0c:9e
+📍 IP : 93.119.105.61 (Romania)
 
-├──● 🅟🅞🅡🅣🅐🅛 🅤🅡🅛 ➤➤ http://bes5.alphatx.me:80/c/
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:3b:6f:65
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:46:81:d6
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:4c:73:6e
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:5f:75:3d
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:d5:55:7f
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:7a:09:da
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:02:1c:c7
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:c5:08:ca
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:67:17:e2
+🌍 SERVER TIMEZONE : Europe/Bucharest
 
-├──● 🅟🅞🅡🅣🅐🅛 🅤🅡🅛 ➤➤ http://tv.dino-code.site:80/c/
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:26:a8:81
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:31:69:23
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:3c:4f:a8
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:37:63:37
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:d1:c5:3d
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:ad:a9:61
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:01:71:95
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:c6:d5:20
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:80:fd:a6
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:ce:10:f5
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:08:36:5c
+✅ MAC : 00:1A:79:D8:44:73
 
-├──● 🅟🅞🅡🅣🅐🅛 🅤🅡🅛 ➤➤ http://dino10.noahtv.online:80/c/
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:59:8d:86
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:a9:f3:01
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:79:1f:eb
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:7a:0f:30
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:c4:c9:af
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:38:15:48
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:53:35:25
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:38:34:65
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:80:c7:65
-├─● 🅜🅐🅒 🅐🅓🅡🅔🅢🅢 ➤➤ 00:1A:79:b2:39:76
+📆 Expired on : May 14, 2025, 12:00 am
 
-├●Real ➤ http://lllllliiiiiiidsa9.funtogether.xyz:8080/c/
-├●Mac ➤00:1A:79:4c:f1:68
-├●Mac ➤00:1A:79:53:f5:23
-├●Mac ➤00:1A:79:bb:11:6f
-├●Mac ➤00:1A:79:ae:14:e6
-├●Mac ➤00:1A:79:7b:3b:32
-├●Mac ➤00:1A:79:c7:7c:83
-├●Mac ➤00:1A:79:4f:35:2c
-├●Mac ➤00:1A:79:01:6f:cd
-├●Mac ➤00:1A:79:c6:b6:57
-├●Mac ➤00:1A:79:c4:27:cd
-├●Mac ➤00:1A:79:ab:d2:6c
-├●Mac ➤00:1A:79:ae:15:fc
+🛰 PORTAL : http://restream.cdn-4k.cloud/c
 
-http://flixtralion.xyz:80/c/
-00:1A:79:00:00:00
-00:1A:79:81:47:5A
-00:1A:79:78:93:91
-00:1A:79:62:64:39
-00:1A:79:07:C2:06
-00:1A:79:00:00:00
-00:1a:79:00:00:00
-00:1a:79:a2:bb:21
-00:1a:79:7b:82:54
-00:1a:79:b7:e3:1b
-00:1a:79:33:51:70
-00:1a:79:ac:0a:b6
-00:1a:79:0e:c0:8d
-00:1A:79:32:30:61
-00:1A:79:00:15:E6
-00:1A:79:4C:A3:A5
-00:1A:79:34:07:54
-00:1A:79:5C:80:F9
-00:1A:79:4F:4F:3F
-00:1A:79:7A:3D:37
-00:1A:79:18:46:CD
-00:1A:79:1C:10:63
+📍 IP : 93.119.105.61 (Romania)
 
-├⭕Real ➩ http://lllllliiiiiiidsa9.funtogether.xyz:8080/c/
-├⭕Mac ➩ 00:1A:79:C5:F4:A1
+🌍 SERVER TIMEZONE : Europe/Bucharest
 
-http://restream.cdn-4k.cloud/c/
-├⭕Mac ➩ 00:1A:79:B4:F1:2A
+✅ MAC : 00:1A:79:59:33:72
 
-PORTAL : http://xc-clubtv.xyz:8080/c
-✅ MAC : 00:1A:79:07:C4:46
-✅ MAC : 00:1A:79:19:21:38
-✅ MAC : 00:1A:79:14:DE:F1
-✅ MAC : 00:1A:79:31:3F:84
+📆 Expired on : December 10, 2025, 12:00 am
 
-├●Real ➤ http://b1g.uk:80/c/
-├●Mac ➤00:1A:79:c8:36:af
-├●Mac ➤00:1A:79:b6:93:b1
-├●Mac ➤00:1A:79:61:51:ef
-├●Mac ➤00:1A:79:b1:56:ef
-├●Mac ➤00:1A:79:b9:86:34
-├●Mac ➤00:1A:79:b3:07:4e
-├●Mac ➤00:1A:79:80:7f:04
-├●Mac ➤00:1A:79:b3:99:07
-├●Mac ➤00:1A:79:b6:93:b1
-├●Mac ➤00:1A:79:61:51:ef
-├●Mac ➤00:1A:79:b1:56:ef
+🛰 PORTAL : http://restream.cdn-4k.cloud/c
 
-PORTAL : http://89.187.189.89:9010/stalker_portal/c/
-MAC : 00:1A:79:06:19:F0
-MAC : 00:1A:79:0C:25:0D
-MAC : 00:1A:79:55:05:63
-MAC : 00:1A:79:63:63:35
-MAC : 00:1A:79:49:45:F4
-MAC : 00:1A:79:54:46:27
-MAC : 00:1A:79:02:8F:BF
-MAC : 00:1A:79:04:93:A6
-MAC : 00:1A:79:13:B0:13
-MAC : 00:1A:79:07:9B:55
-MAC : 00:1A:79:08:1C:7E
+📍 IP : 93.119.105.61 (Romania)
+
+🌍 SERVER TIMEZONE : Europe/Bucharest
+
+✅ MAC : 00:1A:79:B6:46:CB
+
+📆 Expired on : September 24, 2025, 3:42 pm
+
+🛰 PORTAL : http://restream.cdn-4k.cloud/c
+
+📍 IP : 93.119.105.61 (Romania)
+
+🌍 SERVER TIMEZONE : Europe/Bucharest
+
+✅ MAC : 00:1A:79:66:54:48
+
+📆 Expired on : July 3, 2025, 5:51 am
+
+🛰 PORTAL : http://xc.tvset.top/c
+
+📍 IP : 62.182.83.108 (Ukraine)
+
+🌍 SERVER TIMEZONE : Europe/Kyiv
+
+✅ MAC : 00:1A:79:34:D6:C7
+
+📆 Expired on : August 18, 2025, 12:31 pm
+
+ 🛰 PORTAL : http://xc.tvset.top/c
+
+📍 IP : 62.182.83.108 (Ukraine)
+
+🌍 SERVER TIMEZONE : Europe/Kyiv
+
+✅ MAC : 00:1A:79:38:3B:B8
+
+📆 Expired on : June 10, 2025, 11:38 am
+
+🛰 PORTAL : http://mag.powerdino.com/c
+
+📍 IP : 104.21.32.1 (Canada)
+
+🌍 SERVER TIMEZONE : America/Toronto
+
+✅ MAC : 00:1A:79:44:AE:53
+
+📆 Expired on : September 27, 2025, 12:00 am
+
+🛰 PORTAL : http://mag.powerdino.com/c
+
+📍 IP : 104.21.32.1 (Canada)
+
+🌍 SERVER TIMEZONE : America/Toronto
+
+✅ MAC : 00:1A:79:44:AE:53
+
+📆 Expired on : September 27, 2025, 12:00 am
+
+🛰 PORTAL : http://mag.powerdino.com/c
+
+📍 IP : 104.21.32.1 (Canada)
+
+🌍 SERVER TIMEZONE : America/Toronto
+
+✅ MAC : 00:1A:79:A3:66:DD
+
+📆 Expired on : April 16, 2025, 7:35 pm
+
+🛰 PORTAL : http://192.99.19.27:8000/c
+
+📍 IP : 192.99.19.27 (Canada)
+
+🌍 SERVER TIMEZONE : America/Toronto
+
+✅ MAC : 00:1A:79:70:C2:69
+
+📆 Expired on : June 2, 2025, 11:00 pm
+
+🛰 PORTAL : http://192.99.19.27:8000/c
+
+📍 IP : 192.99.19.27 (Canada)
+
+🌍 SERVER TIMEZONE : America/Toronto
+
+✅ MAC : 00:1A:79:94:69:51
+
+📆 Expired on : Unlimited
+
+🛰 PORTAL : http://192.99.19.27:8000/c
+
+📍 IP : 192.99.19.27 (Canada)
+
+🌍 SERVER TIMEZONE : America/Toronto
+
+✅ MAC : 00:1A:79:68:BF:24
+
+📆 Expired on : Unlimited
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:C8:6B:45
+
+📆 Expired on : February 25, 2026, 1:26 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:52:28:7A
+
+📆 Expired on : March 7, 2024, 6:50 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:43:97:44
+
+📆 Expired on : May 20, 2025, 11:30 am
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:D3:3D:BF
+
+📆 Expired on : March 31, 2026, 6:59 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:39:F8:EE
+
+📆 Expired on : December 2, 2023, 6:12 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:AB:5A:F9
+
+📆 Expired on : August 26, 2025, 1:52 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:90:4F:CE
+
+📆 Expired on : December 24, 2025, 4:10 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:6B:05:29
+
+📆 Expired on : January 27, 2024, 2:19 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:43:7F:7A
+
+📆 Expired on : April 23, 2025, 5:27 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:79:07:B9
+
+📆 Expired on : January 24, 2026, 6:03 pm
+
+🛰 PORTAL : http://exchange.jinbox.nl:1339/c
+
+📍 IP : 5.180.48.174 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:05:E0:C6
+
+📆 Expired on : December 5, 2023, 12:12 pm
+
+🛰 PORTAL : http://wowtv.cc/c
+
+📍 IP : 103.176.90.180 (Hong Kong)
+
+🌍 SERVER TIMEZONE : Asia/Hong_Kong
+
+✅ MAC : 00:1A:79:A8:02:6D
+
+📆 Expired on : June 9, 2025, 12:00 am
+
+🛰 PORTAL : http://iptvch2.com/c
+
+📍 IP : 62.182.83.108 (Ukraine)
+
+🌍 SERVER TIMEZONE : Europe/Kyiv
+
+✅ MAC : 00:1A:79:A5:2B:7D
+
+📆 Expired on : June 9, 2025, 6:01 pm
+
+🛰 PORTAL : http://exm3u.123tv.to:8080/c
+
+📍 IP : 95.214.235.18 (Ukraine)
+
+🌍 SERVER TIMEZONE : Europe/Kiev
+
+✅ MAC : 00:1A:79:F5:30:AE
+
+📆 Expired on : September 29, 2025, 6:11 pm
+
+🛰 PORTAL : http://exm3u.123tv.to:8080/c
+
+📍 IP : 95.214.235.18 (Ukraine)
+
+🌍 SERVER TIMEZONE : Europe/Kiev
+
+✅ MAC : 00:1A:79:0C:21:E4
+
+📆 Expired on : October 16, 2025, 9:42 pm
+
+🛰 PORTAL : http://exm3u.123tv.to:8080/c
+
+📍 IP : 95.214.235.18 (Ukraine)
+
+🌍 SERVER TIMEZONE : Europe/Kiev
+
+✅ MAC : 00:1A:79:BD:96:B0
+
+📆 Expired on : April 5, 2026, 7:18 am
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:4C:3B:EE
+
+📆 Expired on : September 28, 2025, 7:43 pm
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:86:7B:DC
+
+📆 Expired on : June 21, 2025, 12:56 am
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:48:DE:EF
+
+📆 Expired on : June 1, 2025, 1:04 pm
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:BA:2C:01
+
+📆 Expired on : September 3, 2025, 3:52 pm
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:AB:5F:29
+
+📆 Expired on : August 25, 2025, 5:20 pm
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:6F:7F:2F
+
+📆 Expired on : January 20, 2026, 5:41 pm
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:7E:45:5E
+
+📆 Expired on : June 21, 2025, 5:26 pm
+
+🛰 PORTAL : http://tv.tvdark.eu/c
+
+📍 IP : 89.33.14.39 (The Netherlands)
+
+🌍 SERVER TIMEZONE : Europe/Amsterdam
+
+✅ MAC : 00:1A:79:7E:6C:7F
+
+📆 Expired on : November 20, 2025, 10:58 pm
+
+🛰 PORTAL : http://restream.cdn-4k.cloud/c
+
+📍 IP : 93.119.105.61 (Romania)
+
+🌍 SERVER TIMEZONE : Europe/Bucharest
+
+✅ MAC : 00:1A:79:76:B8:AF
+
+📆 Expired on : November 5, 2025, 11:00 pm
