@@ -1,4 +1,3 @@
-USE VPN !!
 Use VPN for codes that don't work×
 
 PORTAL : http://cbrlig.com:8080/c
