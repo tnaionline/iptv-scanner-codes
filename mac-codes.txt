@@ -1,7 +1,7 @@
 Use VPN for codes that don't work
 
-http://45.139.122.199:2095/c/
-├◉ 00:1A:79:86:A0:86
+🛰 PORTAL : http://45.139.122.199:2095/c/
+✅ MAC : 00:1A:79:86:A0:86
 
 🛰 PORTAL : http://wtc05.mi20.cc/stalker_portal/c
 ✅ MAC : 00:1A:79:7A:71:9D
