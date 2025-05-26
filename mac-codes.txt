@@ -1,274 +1,227 @@
 Use VPN for codes that don't work
 
-PORTAL : http://194.62.214.171/c
-MAC : 00:1A:79:81:63:45
-MAC : 00:1A:79:9D:55:4C
-MAC : 00:1A:79:B3:D3:C4
-MAC : 00:1A:79:7C:FE:EE
-MAC : 00:1A:79:BD:15:51
-MAC : 00:1A:79:68:BC:21
-MAC : 00:1A:79:6A:C9:61
-MAC : 00:1A:79:B6:E0:99
-MAC : 00:1A:79:ED:73:68
-MAC : 00:1A:79:75:C4:DE
-MAC : 00:1A:79:50:EB:96
-MAC : 00:1A:79:59:DC:20
+🛰 PORTAL : http://zenlink.link/c
+✅ MAC : 00:1A:79:B9:7C:70
 
-├⭕Real ➩ http://cdn.suportline.xyz/stalker_portal/c/
-├⭕Mac ➩ 00:1A:79:CB:A2:F5
+🛰 PORTAL : http://forip.in:2082/c
+✅ MAC : 00:1A:79:C1:C0:39
+✅ MAC : 00:1A:79:40:46:49
+✅ MAC : 00:1A:79:10:87:A5
 
-http://16919-near.cloud-ott.me/c/
-├◉ ➤ 00:1A:79:58:13:68
-├◉ ➤ 00:1A:79:EE:74:72
-├◉ ➤ 00:1A:79:BF:92:43
-├◉ ➤ 00:1A:79:00:58:B2
-├◉ ➤ 00:1A:79:B9:53:FD
+🛰 PORTAL : http://d8.myottes.me/c
+✅ MAC : 00:1A:79:6B:C0:83
+✅ MAC : 00:1A:79:BB:15:16
+✅ MAC : 00:1A:79:9E:73:66
+✅ MAC : 00:1A:79:7D:C3:61
 
-PORTAL : http://1234up.com:8080/c
-✅ MAC : 00:1A:79:C4:4C:E2
-✅ MAC : 00:1A:79:BE:83:C5
-✅ MAC : 00:1A:79:B1:00:05
-✅ MAC : 00:1A:79:CB:4E:A9
-✅ MAC : 00:1A:79:B6:4E:8B
+🛰 PORTAL : http://tv.banjotv.tv/stalker_portal/c
+✅ MAC : 00:1A:79:68:6A:F0
+✅ MAC : 00:1A:79:DB:9F:EA
+✅ MAC : 00:1A:79:1E:5F:F7
+✅ MAC : 00:1A:79:6C:36:1F
 
-PORTAL : http://tuga2022.ddns.net:8080/c
-✅ MAC : 00:1A:79:B1:F9:2C
-✅ MAC : 00:1A:79:3D:21:DA
-✅ MAC : 00:1A:79:BC:2E:6D
-✅ MAC : 00:1A:79:CC:44:64
-✅ MAC : 00:1A:79:C6:D7:58
+🛰 PORTAL : http://cbrlig.com:8080/c
+✅ MAC : 00:1A:79:C4:78:EC
 
-├●Real ➤ http://omeucanal.xyz:80/c/
-├●Mac ➤00:1A:79:c0:0b:51
-├●Mac ➤00:1A:79:a6:ec:20
-├●Mac ➤00:1A:79:00:23:2e
-├●Mac ➤00:1A:79:98:68:f9
-├●Mac ➤00:1A:79:ae:1e:e9
-├●Mac ➤00:1A:79:a6:6c:07
-├●Mac ➤00:1A:79:d2:d6:51
-├●Mac ➤00:1A:79:d2:d8:63
-├●Mac ➤00:1A:79:c0:96:6a
-├●Mac ➤00:1A:79:43:8f:cd
-├●Mac ➤00:1A:79:3f:2a:e0
-├●Mac ➤00:1A:79:b7:2b:3a
+🛰 PORTAL : http://iptvswiss.com.123tv.to:8080/c
+✅ MAC : 00:1A:79:AC:A3:EB
+✅ MAC : 00:1A:79:4B:35:3A
+✅ MAC : 00:1A:79:3D:18:26
 
-PORTAL : http://168.119.44.246:2080/stalker_portal/c/
-MAC : 00:1A:79:70:53:18
-MAC : 00:1A:79:3B:86:09
-MAC : 00:1A:79:34:9D:78
-MAC : 00:1A:79:62:06:C1
-MAC : 00:1A:79:67:71:27
-MAC : 00:1A:79:70:CD:BF
-MAC : 00:1A:79:6E:AB:E1
-MAC : 00:1A:79:6B:BE:0A
-MAC : 00:1A:79:67:7C:97
-MAC : 00:1A:79:68:9E:69
-MAC : 00:1A:79:4A:B4:81
-MAC : 00:1A:79:2D:78:3B
-MAC : 00:1A:79:68:9E:DD
-MAC : 00:1A:79:66:52:18
+🛰 PORTAL : http://app.mm88.com.bd/stalker_portal/c
+✅ MAC : 00:1A:79:7B:05:97
+✅ MAC : 00:1A:79:7A:96:8A
+✅ MAC : 00:1A:79:76:62:1F
+✅ MAC : 00:1A:79:7B:76:44
 
-PORTAL : http://194.62.214.171/c
-MAC : 00:1A:79:81:63:45
-MAC : 00:1A:79:9D:55:4C
-MAC : 00:1A:79:B3:D3:C4
-MAC : 00:1A:79:7C:FE:EE
-MAC : 00:1A:79:BD:15:51
-MAC : 00:1A:79:68:BC:21
-MAC : 00:1A:79:6A:C9:61
-MAC : 00:1A:79:B6:E0:99
-MAC : 00:1A:79:ED:73:68
-MAC : 00:1A:79:75:C4:DE
-MAC : 00:1A:79:50:EB:96
-MAC : 00:1A:79:59:DC:20
+🛰 PORTAL : http://line.rs6ott.com/c
+✅ MAC : 00:1A:79:17:2D:E8
+✅ MAC : 00:1A:79:AD:9C:C8
 
-PORTAL : http://xc-clubtv.xyz:8080/c
-✅ MAC : 00:1A:79:71:00:FB
-✅ MAC : 00:1A:79:13:57:B5
-✅ MAC : 00:1A:79:14:E5:B3
-✅ MAC : 00:1A:79:13:57:B5
-✅ MAC : 00:1A:79:14:E5:B3
+├◉ 🌍 Rᴇᴀʟ ➤ http://masterofiptv.pro:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:F1:EC:93
 
-├●Real ➤ http://honeywatch.net:80/c/
-├●Mac ➤ 00:1A:79:00:28:b4
-├●Mac ➤ 00:1A:79:8f:5f:1e
-├●Mac ➤ 00:1A:79:1A:02:23
-├●Mac ➤ 00:1A:79:05:c8:1d
-├●Mac ➤ 00:1A:79:b5:9e:0b
-├●Mac ➤ 00:1A:79:e5:e6:de
-├●Mac ➤ 00:1A:79:e7:bc:ce
-├●Mac ➤ 00:1a:79:84:f7:99
-├●Mac ➤ 00:1A:79:15:87:4f
-├●Mac ➤ 00:1a:79:36:B2:90
-├●Mac ➤ 00:1A:79:0a:ea:56
-├●Mac ➤ 00:1A:79:06:00:13
+├◉ 🌍 Rᴇᴀʟ ➤ http://unknown.protv.cc:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:B5:10:A8
 
-┊⋆SERVIDOR ➤ http://pirate-teleiptv.com:80/c/    
-┊⋆MAC  ➤ 00:1A:79:00:00:00
-┊⋆MAC  ➤ 00:1A:79:81:47:5A
-┊⋆MAC  ➤ 00:1A:79:62:64:39
-┊⋆MAC  ➤ 00:1A:79:78:93:91
+├◉ 🌍 Rᴇᴀʟ ➤ http://194.62.214.171:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:18:07:47
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:27:05:24
 
-┊⋆SERVIDOR ➤ http://m.devtv.biz:80/c/    
-┊⋆MAC  ➤ 00:1A:79:D4:5F:80
-┊⋆MAC  ➤ 00:1A:79:A7:87:43
-┊⋆MAC  ➤ 00:1A:79:4E:37:9D
-┊⋆MAC  ➤ 00:1A:79:19:4F:C1
-┊⋆MAC  ➤ 00:1A:79:05:E3:DE
-┊⋆MAC  ➤ 00:1A:79:50:B9:EF
-┊⋆MAC  ➤ 00:1A:79:A2:66:87
-┊⋆MAC  ➤ 00:1A:79:36:6F:09
-┊⋆MAC  ➤ 00:1A:79:00:9B:E9
-┊⋆MAC  ➤ 00:1A:79:00:9E:EF
-┊⋆MAC  ➤ 00:1A:79:00:9F:F3
-┊⋆MAC  ➤ 00:1A:79:00:9B:2C
-┊⋆MAC  ➤ 00:1A:79:00:A9:24
+├◉ 🌍 Rᴇᴀʟ ➤ http://200.26.188.66:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:7B:E6:77
 
-┊⋆SERVIDOR ➤ http://biensports.pro:80/c/    
-┊⋆MAC  ➤ 00:1A:79:02:FE:01
-┊⋆MAC  ➤ 00:1A:79:A6:7F:7C
-┊⋆MAC  ➤ 00:1A:79:35:34:61
-┊⋆MAC  ➤ 00:1A:79:C0:8A:D8
-┊⋆MAC  ➤ 00:1A:79:DF:41:E4
-┊⋆MAC  ➤ 00:1A:79:00:00:AC
-┊⋆MAC  ➤ 00:1A:79:61:32:34
-┊⋆MAC  ➤ 00:1A:79:36:62:63
-┊⋆MAC  ➤ 00:1A:79:CF:6C:23
-┊⋆MAC  ➤ 00:1A:79:3A:A9:9C
-┊⋆MAC  ➤ 00:1A:79:5C:EA:5D
+├◉ 🌍 Rᴇᴀʟ ➤ http://stalker.ugoiptv.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:32:C3:D8
 
-http://omeucanal.xyz/c
-✅ MAC : 00:1A:79:52:EE:A0
-✅ MAC : 00:1A:79:35:A2:F7
-✅ MAC : 00:1A:79:56:BB:CB
-✅ MAC : 00:1A:79:40:39:C5
-✅ MAC : 00:1A:79:53:2A:1A
+├◉ 🌍 Rᴇᴀʟ ➤ http://app-plus.live:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:C9:6B:A9
 
-http://ix.kingtv.pw/c
-✅ MAC : 00:1A:79:52:3D:59
-✅ MAC : 00:1A:79:30:48:10
-✅ MAC : 00:1A:79:5C:A3:02
-✅ MAC : 00:1A:79:32:1F:4C
-✅ MAC : 00:1A:79:3B:6D:91
+├◉ 🌐 Pᴏʀᴛᴀʟ ➤ http://103.176.90.137:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:ED:71:91
 
-PORTAL : http://tuga2022.ddns.net:8080/c
-✅ MAC : 00:1A:79:D2:9C:03
-✅ MAC : 00:1A:79:AE:07:11
-✅ MAC : 00:1A:79:CB:68:11
-✅ MAC : 00:1A:79:B0:8E:E4
-✅ MAC : 00:1A:79:AE:00:BF
-├⭕Mac ➩ 00:1A:79:D0:0A:00
-├⭕Mac ➩ 00:1A:79:CB:9A:CF
-✅ MAC : 00:1A:79:C4:2A:AD
-✅ MAC : 00:1A:79:CF:38:DF
-✅ MAC : 00:1A:79:D0:FF:3B
+├◉ 🌍 Rᴇᴀʟ ➤ http://dp-elite.net:2095/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:E5:E7:8E
 
-PORTAL : http://apksmart.dino.ws/c
-✅ MAC : 00:1A:79:25:03:34
-✅ MAC : 00:1A:79:51:18:35
-
-http://drk.yasar.tv/c
-✅ MAC : 00:1A:79:61:5C:99
-✅ MAC : 00:1A:79:4D:0A:C7
-✅ MAC : 00:1A:79:83:9F:48
-✅ MAC : 00:1A:79:A3:01:68
-
-http://iptv.jinbox.eu/c/
-├⭕Mac ➩ 00:1A:79:D3:6F:39
 
 ├●Real ➤ http://schanel.org:8080/c/
-├●Mac ➤00:1A:79:a1:d0:1d
-
-PORTAL : http://to-jest-link.cc/c
-MAC : 00:1A:79:CC:41:83
-MAC : 00:1A:79:E7:D4:5B
-MAC : 00:1A:79:52:0F:72
-MAC : 00:1A:79:90:47:6A
-MAC : 00:1A:79:5D:9B:BB
-MAC : 00:1A:79:0A:1E:23
-MAC : 00:1A:79:80:DD:9B
-MAC : 00:1A:79:BB:FB:9A
-MAC : 00:1A:79:39:66:1A
-MAC : 00:1A:79:C4:20:33
-MAC : 00:1A:79:15:B1:AA
-MAC : 00:1A:79:ED:2B:B1
-
-http://proxy.plus55.xyz/c
-✅ MAC : 00:1A:79:AB:C7:94
-✅ MAC : 00:1A:79:10:17:DB
-✅ MAC : 00:1A:79:A4:A8:DF
-✅ MAC : 00:1A:79:08:48:42
-✅ MAC : 00:1A:79:4B:74:57
-
-├➢𝚁𝙴𝙰𝙻➨ http://drk.yasarpro.com:80/c/
-├➢𝙼𝙰𝙲➨ 00:1A:79:C8:2D:0E
+├●Mac ➤00:1A:79:a1:e3:96
 
 http://tv.cloudcdn.me/c/
-00:1A:79:00:05:82
-00:1A:79:00:04:25
-00:1A:79:00:02:27
+├◉ ➤ 00:1A:79:83:61:45
 
-║PANEL ➤ http://drk.yasarpro.com:80/c/
-║MAC ➤ 00:1A:79:85:D8:22
-║MAC ➤ 00:1A:79:55:62:2A
-║MAC ➤ 00:1A:79:A0:1F:D3
-║MAC ➤ 00:1A:79:6B:67:DD
-║MAC ➤ 00:1A:79:68:55:68
-║MAC ➤ 00:1A:79:D2:D6:F0
-║MAC ➤ 00:1A:79:69:F6:10
-║MAC ➤ 00:1A:79:3F:DB:C9
-║MAC ➤ 00:1A:79:E0:7F:87
-║MAC ➤ 00:1A:79:01:6A:33
-║MAC ➤ 00:1A:79:6B:26:33
-║MAC ➤ 00:1A:79:5E:47:A0
-║MAC ➤ 00:1A:79:C3:0D:E5
+├⭕Real ➩ http://cbr.selfip.org:8080/c/
+├⭕Mac ➩ 00:1A:79:1D:03:54
+├⭕Mac ➩ 00:1A:79:53:2B:28
+├⭕Mac ➩ 00:1A:79:B8:FF:1D
 
-║PANEL ➤ http://c7.myottes.me:80/c/
-║MAC ➤ 00:1A:79:00:00:7A
-║MAC ➤ 00:1A:79:00:00:4D
-║MAC ➤ 00:1A:79:00:00:99
-║MAC ➤ 00:1A:79:00:00:79
-║MAC ➤ 00:1A:79:00:00:AC
-║MAC ➤ 00:1A:79:00:01:3E
-║MAC ➤ 00:1A:79:00:01:8D
-║MAC ➤ 00:1A:79:00:01:9C
-║MAC ➤ 00:1A:79:00:02:0B
-║MAC ➤ 00:1A:79:00:02:A4
-║MAC ➤ 00:1A:79:00:02:FD
-║MAC ➤ 00:1A:79:00:03:27
+http://135.125.45.127/c
+✅ MAC : 00:1A:79:54:60:05
+✅ MAC : 00:1A:79:31:F6:D4
 
-🛰 PORTAL : http://restream.cdn-4k.cloud/c
-✅ MAC : 00:1A:79:76:B8:AF
+PORTAL : http://1234up.com:8080/c
+✅ MAC : 00:1A:79:BB:29:BE
+✅ MAC : 00:1A:79:BF:78:9B
+✅ MAC : 00:1A:79:AC:AC:AC
+✅ MAC : 00:1A:79:C3:C1:4F
+✅ MAC : 00:1A:79:57:E1:79
 
-🛰 PORTAL : http://tv.tvdark.eu/c
-✅ MAC : 00:1A:79:7E:6C:7F
-✅ MAC : 00:1A:79:7E:45:5E
-✅ MAC : 00:1A:79:6F:7F:2F
-✅ MAC : 00:1A:79:AB:5F:29
-✅ MAC : 00:1A:79:BA:2C:01
-✅ MAC : 00:1A:79:48:DE:EF
-✅ MAC : 00:1A:79:86:7B:DC
-✅ MAC : 00:1A:79:4C:3B:EE
+PORTAL : http://tuga2022.ddns.net:8080/c
+✅ MAC : 00:1A:79:35:96:DB
+✅ MAC : 00:1A:79:CB:52:8F
+✅ MAC : 00:1A:79:BA:C1:79
+✅ MAC : 00:1A:79:C3:3B:64
+✅ MAC : 00:1A:79:D3:09:65
 
-🛰 PORTAL : http://exm3u.123tv.to:8080/c
-✅ MAC : 00:1A:79:BD:96:B0
-✅ MAC : 00:1A:79:0C:21:E4
-✅ MAC : 00:1A:79:F5:30:AE
+PORTAL : http://168.119.44.246:2080/stalker_portal/c/
+MAC : 00:1A:79:70:4E:D5
+MAC : 00:1A:79:6E:AA:A1
+MAC : 00:1A:79:6E:AB:46
+MAC : 00:1A:79:6E:A2:3C
+MAC : 00:1A:79:6E:77:91
+MAC : 00:1A:79:65:ED:02
+MAC : 00:1A:79:68:13:DB
+MAC : 00:1A:79:6E:AB:F1
+MAC : 00:1A:79:62:D6:AD
+MAC : 00:1A:79:6B:03:54
+MAC : 00:1A:79:6C:50:32
+MAC : 00:1A:79:60:69:0C
 
-🛰 PORTAL : http://iptvch2.com/c
-✅ MAC : 00:1A:79:A5:2B:7D
+├●Real ➤ http://prm.worldip.nl:80/c/
+├●Mac ➤00:1A:79:94:75:df
+├●Mac ➤00:1A:79:c1:b3:5b
+├●Mac ➤00:1A:79:74:06:59
+├●Mac ➤00:1A:79:bd:be:02
+├●Mac ➤00:1A:79:80:77:39
+├●Mac ➤00:1A:79:c2:8d:94
+├●Mac ➤00:1A:79:c2:11:0e
+├●Mac ➤00:1A:79:3d:6a:24
+├●Mac ➤00:1A:79:a2:bf:15
+├●Mac ➤00:1A:79:bd:0b:31
+├●Mac ➤00:1A:79:60:7e:42
+├●Mac ➤00:1A:79:3b:12:a7
+├●Mac ➤00:1A:79:bd:bc:cb
+├●Mac ➤00:1A:79:bd:bd:d2
+├●Mac ➤00:1A:79:68:9e:ff
+├●Mac ➤00:1A:79:ba:d5:a1
+├●Mac ➤00:1A:79:38:3f:4f
+├●Mac ➤00:1A:79:44:27:6f
+├●Mac ➤00:1A:79:d2:99:39
 
-🛰 PORTAL : http://wowtv.cc/c
-✅ MAC : 00:1A:79:A8:02:6D
+PORTAL : http://panel.ooguy.com:82/stalker_portal/c/
+MAC : 00:1A:79:01:82:30
+MAC : 00:1A:79:E0:8A:56
+MAC : 00:1A:79:01:82:24
+MAC : 00:1A:79:C3:BF:C0
+MAC : 00:1A:79:90:16:45
+MAC : 00:1A:79:AE:53:91
+MAC : 00:1A:79:AE:D2:57
+MAC : 00:1A:79:D0:0C:8F
+MAC : 00:1A:79:59:04:32
+MAC : 00:1A:79:DF:FB:24
 
-🛰 PORTAL : http://exchange.jinbox.nl:1339/c
-✅ MAC : 00:1A:79:05:E0:C6
-✅ MAC : 00:1A:79:79:07:B9
-✅ MAC : 00:1A:79:79:07:B9
-✅ MAC : 00:1A:79:43:7F:7A
-✅ MAC : 00:1A:79:43:7F:7A
-✅ MAC : 00:1A:79:6B:05:29
-✅ MAC : 00:1A:79:6B:05:29
-✅ MAC : 00:1A:79:90:4F:CE
-✅ MAC : 00:1A:79:90:4F:CE
-✅ MAC : 00:1A:79:AB:5A:F9
+PORTAL : http://23232.top/c
+MAC : 00:1A:79:F5:52:AD
+MAC : 00:1A:79:F2:1F:E8
+MAC : 00:1A:79:B6:C0:0E
+MAC : 00:1A:79:BE:93:A5
+MAC : 00:1A:79:CC:1F:BB
+MAC : 00:1A:79:F1:B2:2C
+MAC : 00:1A:79:4B:2A:2B
+MAC : 00:1A:79:54:5F:B6
+MAC : 00:1A:79:01:15:E7
+MAC : 00:1A:79:1E:0B:97
+MAC : 00:1A:79:20:74:3B
+MAC : 00:1A:79:AF:81:4F
+
+├◉ ➤ http://elchicharron.ddns.net:8080/c/
+├◉ ➤ 00:1A:79:C0:BA:2A
+
+├⭕Real ➩ http://lllllliiiiiiidsa9.funtogether.xyz:8080/c/
+├⭕Mac ➩ 00:1A:79:DC:BD:71
+
+🛰 PORTAL : http://iptv.jinbox.eu:1339/c
+✅ MAC : 00:1A:79:C6:37:E2
+✅ MAC : 00:1A:79:AA:BE:9A
+✅ MAC : 00:1A:79:C0:0D:2E
+✅ MAC : 00:1A:79:4F:23:F5
+✅ MAC : 00:1A:79:32:9B:8C
+✅ MAC : 00:1A:79:3E:45:7C
+✅ MAC : 00:1A:79:32:9B:8C
+✅ MAC : 00:1A:79:3E:45:7C
+✅ MAC : 00:1A:79:52:28:CE
+
+
+http://cf.10159875.cloud:80/c/
+00:1A:79:77:C4:E4
+
+http://line.trx4k.com:80/c/
+00:1A:79:0D:A0:6A
+
+http://source.strictv.com:80/c/
+00:1A:79:C1:40:18
+
+http://full-tv100.com:80/c/
+00:1A:79:BC:24:7A
+
+http://source.strictv.com:80/c/
+00:1A:79:02:F7:54
+
+├◉ 🌍 Rᴇᴀʟ ➤ http://cf.10159875.cloud:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:77:C4:E4
+
+├◉ 🌍 Rᴇᴀʟ ➤ http://line.trx4k.com:80/c/
+├◉ 🔢 Mᴀᴄ ➤ 00:1A:79:0D:A0:6A
+
+http://ragnartvpars.xyz:8080/c/
+00:1A:79:10:E1:9B
+
+http://full-tv100.com:80/c/
+00:1A:79:7E:28:C5
+
+http://tv.premiumplus.tv:80/c/
+00:1A:79:C5:8E:5E
+
+http://epg.protv.cc:80/c/
+00:1A:79:C5:0B:DC
+
+http://d8.myottes.me:80/c/
+00:1A:79:B6:60:1E
+
+http://foxx-tv.xyz:80/c/
+00:1A:79:4F:72:32
+
+http://source.strictv.com:80/c/
+00:1A:79:7A:ED:C1
+
+http://line.trx4k.com:80/c/
+00:1A:79:30:6F:10
+
+http://pike10245.cdn-akm.me:80/c/
+00:1A:79:68:73:EE
+
+http://line.greatstar.me:80/c/
+00:1A:79:B5:94:95
+
+http://d8.myottes.me:80/c/
+00:1A:79:7E:B3:44
