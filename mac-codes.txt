@@ -1,3 +1,111 @@
+http://ds.raptortv.de:80 
+00:1A:79:9E:88:99
+00:1A:79:AB:57:AF
+00:1A:79:6B:BF:49
+00:1A:79:6B:C0:F0
+00:1A:79:C3:B9:54
+00:1A:79:13:51:47
+00:1A:79:8D:E2:DC
+
+├● Panel ➨ http://cname.dino.ws:80/c/
+├● Mac ➨ 00:1A:79:71:F8:41
+
+http://auth.streamtv.to:8080 
+00:1A:79:AE:40:A5
+00:1A:79:BB:24:26
+00:1A:79:64:DF:5F
+00:1A:79:79:6E:29
+00:1A:79:43:C6:22
+00:1A:79:C3:2D:32
+
+http://backup.xp1.tv:80 
+00:1A:79:DA:A6:27
+00:1A:79:AE:4B:62
+00:1A:79:A1:83:90
+00:1A:79:C5:26:F7
+00:1A:79:A1:2F:95
+00:1A:79:2B:23:29
+00:1A:79:BB:9A:7F
+
+├● Panel ➨ http://androstv.xyz:8080/c/
+├● Mac ➨ 00:1A:79:B6:7D:B1
+├● Mac ➨ 00:1A:79:0F:4A:77
+├● Mac ➨ 00:1A:79:07:C1:DC
+├● Mac ➨ 00:1A:79:6B:BA:CA
+
+http://1234up.com:8080 
+00:1A:79:CD:F2:15
+00:1A:79:B8:7C:78
+00:1A:79:BF:A2:A6
+00:1A:79:5E:38:E8
+00:1A:79:B9:F3:37
+
+http://1.germany4k.xyz:80 
+00:1A:79:C2:06:FF
+00:1A:79:5C:91:9A
+00:1A:79:C2:06:FF
+
+╠◉𝗽𝗮𝗻𝗲𝗹➤ http://23232.top:80/c/
+╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:71
+╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:61
+╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:04:B8
+╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:04:65
+╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:71
+╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:61
+
+├● Panel ➨ http://line.iptvwings.com:80/c/
+├● Mac ➨ 00:1A:79:9D:8C:B4
+
+🛰 PORTAL : http://tvip.zeroonemac.xyz:8080/c
+✅ MAC : 00:1A:79:6E:2D:B5
+
+🛰 PORTAL : http://mag.ukhd.tv/c
+✅ MAC : 00:1A:79:44:6D:55
+
+🛰 PORTAL : http://xpone.nl/c
+✅ MAC : 00:1A:79:CE:04:93
+
+🛰 PORTAL : http://server.hdiptv.world:8000/c
+✅ MAC : 00:1A:79:7A:9F:8A
+
+🛰 PORTAL : http://xp1.tv/c
+✅ MAC : 00:1A:79:EE:DB:A3
+✅ MAC : 00:1A:79:C8:6B:45
+✅ MAC : 00:1A:79:C0:0C:0B
+✅ MAC : 00:1A:79:99:6A:12
+✅ MAC : 00:1A:79:C4:60:D3
+✅ MAC : 00:1A:79:CA:E4:B5
+✅ MAC : 00:1A:79:90:A8:07
+✅ MAC : 00:1A:79:C6:4C:DE
+✅ MAC : 00:1A:79:73:BF:80
+✅ MAC : 00:1A:79:AA:71:2D
+✅ MAC : 00:1A:79:3D:88:67
+
+🛰 PORTAL : http://proxy.plus55.xyz/c
+✅ MAC : 00:1A:79:31:A6:71
+
+http://168.119.44.162:2080/stalker_portal/c
+MAC : 00:1A:79:78:61:FA
+MAC : 00:1A:79:5D:9D:A0
+MAC : 00:1A:79:5D:A0:5B
+MAC : 00:1A:79:00:09:E3
+MAC : 00:1A:79:00:09:E3
+MAC : 00:1A:79:68:84:DF
+MAC : 00:1A:79:68:84:DF
+MAC : 00:1A:79:71:EC:AB
+
+http://line.linehunt.org:8000/c
+MAC : 00:1A:79:B4:F0:52
+MAC : 00:1A:79:76:4F:AC
+MAC : 00:1A:79:0B:82:05
+MAC : 00:1A:79:25:FE:EB
+MAC : 00:1A:79:E6:98:54
+MAC : 00:1A:79:0A:B6:30
+MAC : 00:1A:79:C1:BB:D9
+
+🛰 PORTAL : http://d.tvdark.eu/c
+✅ MAC : 00:1A:79:76:77:88
+
 🛰 PORTAL : http://app.mm88.com.bd/stalker_portal/c
 📍 IP : 138.199.131.3 (Germany)
 🌍 SERVER TIMEZONE : Europe/Berlin
@@ -1016,112 +1124,3 @@
 🌐 Client IP : ()
 
 📺 Total Channels : 689 👉 All💥TR| ULUSAL HD💥TR| ULUSAL FHD💥TR| HABER💥TR| SPOR💥TR| SINEMA💥TR| COCUK💥TR| DIN💥TR| MUZIK💥TR| BELGESEL💥FR| GENERAL💥FR| INFO💥FR| CINEMA💥FR| JEUNESSE💥FR| DOCUMENTAIRE💥FR| SPORTS💥FR| MUSIQUE
-
-http://ds.raptortv.de:80 
-00:1A:79:9E:88:99
-00:1A:79:AB:57:AF
-00:1A:79:6B:BF:49
-00:1A:79:6B:C0:F0
-00:1A:79:C3:B9:54
-00:1A:79:13:51:47
-00:1A:79:8D:E2:DC
-
-├● Panel ➨ http://cname.dino.ws:80/c/
-├● Mac ➨ 00:1A:79:71:F8:41
-
-http://auth.streamtv.to:8080 
-00:1A:79:AE:40:A5
-00:1A:79:BB:24:26
-00:1A:79:64:DF:5F
-00:1A:79:79:6E:29
-00:1A:79:43:C6:22
-00:1A:79:C3:2D:32
-
-http://backup.xp1.tv:80 
-00:1A:79:DA:A6:27
-00:1A:79:AE:4B:62
-00:1A:79:A1:83:90
-00:1A:79:C5:26:F7
-00:1A:79:A1:2F:95
-00:1A:79:2B:23:29
-00:1A:79:BB:9A:7F
-
-├● Panel ➨ http://androstv.xyz:8080/c/
-├● Mac ➨ 00:1A:79:B6:7D:B1
-├● Mac ➨ 00:1A:79:0F:4A:77
-├● Mac ➨ 00:1A:79:07:C1:DC
-├● Mac ➨ 00:1A:79:6B:BA:CA
-
-http://1234up.com:8080 
-00:1A:79:CD:F2:15
-00:1A:79:B8:7C:78
-00:1A:79:BF:A2:A6
-00:1A:79:5E:38:E8
-00:1A:79:B9:F3:37
-
-http://1.germany4k.xyz:80 
-00:1A:79:C2:06:FF
-00:1A:79:5C:91:9A
-00:1A:79:C2:06:FF
-
-╠◉𝗽𝗮𝗻𝗲𝗹➤ http://23232.top:80/c/
-╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:71
-╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:61
-╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:04:B8
-╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:04:65
-╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:71
-╠◉𝗺𝗮𝗰 ➤ A0:BB:3E:00:05:61
-
-├● Panel ➨ http://line.iptvwings.com:80/c/
-├● Mac ➨ 00:1A:79:9D:8C:B4
-
-🛰 PORTAL : http://tvip.zeroonemac.xyz:8080/c
-✅ MAC : 00:1A:79:6E:2D:B5
-
-🛰 PORTAL : http://mag.ukhd.tv/c
-✅ MAC : 00:1A:79:44:6D:55
-
-🛰 PORTAL : http://xpone.nl/c
-✅ MAC : 00:1A:79:CE:04:93
-
-🛰 PORTAL : http://server.hdiptv.world:8000/c
-✅ MAC : 00:1A:79:7A:9F:8A
-
-🛰 PORTAL : http://xp1.tv/c
-✅ MAC : 00:1A:79:EE:DB:A3
-✅ MAC : 00:1A:79:C8:6B:45
-✅ MAC : 00:1A:79:C0:0C:0B
-✅ MAC : 00:1A:79:99:6A:12
-✅ MAC : 00:1A:79:C4:60:D3
-✅ MAC : 00:1A:79:CA:E4:B5
-✅ MAC : 00:1A:79:90:A8:07
-✅ MAC : 00:1A:79:C6:4C:DE
-✅ MAC : 00:1A:79:73:BF:80
-✅ MAC : 00:1A:79:AA:71:2D
-✅ MAC : 00:1A:79:3D:88:67
-
-🛰 PORTAL : http://proxy.plus55.xyz/c
-✅ MAC : 00:1A:79:31:A6:71
-
-http://168.119.44.162:2080/stalker_portal/c
-MAC : 00:1A:79:78:61:FA
-MAC : 00:1A:79:5D:9D:A0
-MAC : 00:1A:79:5D:A0:5B
-MAC : 00:1A:79:00:09:E3
-MAC : 00:1A:79:00:09:E3
-MAC : 00:1A:79:68:84:DF
-MAC : 00:1A:79:68:84:DF
-MAC : 00:1A:79:71:EC:AB
-
-http://line.linehunt.org:8000/c
-MAC : 00:1A:79:B4:F0:52
-MAC : 00:1A:79:76:4F:AC
-MAC : 00:1A:79:0B:82:05
-MAC : 00:1A:79:25:FE:EB
-MAC : 00:1A:79:E6:98:54
-MAC : 00:1A:79:0A:B6:30
-MAC : 00:1A:79:C1:BB:D9
-
-🛰 PORTAL : http://d.tvdark.eu/c
-✅ MAC : 00:1A:79:76:77:88
-
