@@ -1,3 +1,42 @@
+Portal: http://line.wishiptv.vip:80/c/
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:b6:25:3b	Active	January 12, 2026, 12:00 am
+00:1A:79:4f:ef:3e	Active	December 4, 2025, 11:41 pm
+00:1A:79:b3:d1:9c	Active	January 10, 2026, 12:00 am
+00:1A:79:6f:20:48	Active	April 30, 2026, 5:46 pm
+00:1A:79:6a:3e:1d	Active	November 26, 2025, 3:45 pm
+00:1A:79:41:23:81	Active	January 16, 2026, 12:00 am
+00:1A:79:7f:9a:5d	Active	September 24, 2026, 12:00 am
+00:1A:79:c3:bf:1b	Active	April 18, 2026, 6:55 pm
+00:1A:79:8e:5c:26	Active	August 27, 2026, 12:00 am
+00:1A:79:30:38:32	Active	August 25, 2026, 3:54 pm
+00:1A:79:d5:fb:28	Active	February 10, 2026, 1:11 pm
+00:1A:79:e7:46:be	Active	December 24, 2025, 6:26 pm
+00:1A:79:68:2f:f7	Active	March 11, 2026, 12:00 am
+00:1A:79:e6:b3:b6	Active	February 24, 2026, 12:00 am
+00:1A:79:a2:8c:99	Active	November 28, 2025, 12:00 am
+00:1A:79:22:35:7f	Active	May 26, 2026, 12:00 am
+00:1A:79:24:19:0d	Active	November 2, 2025, 12:00 am
+00:1A:79:3b:15:7c	Active	January 21, 2026, 1:00 am
+00:1A:79:b5:46:8e	Active	December 1, 2025, 12:00 am
+00:1A:79:8c:08:75	Active	December 28, 2025, 12:00 am
+00:1A:79:2d:19:9a	Active	December 21, 2025, 12:00 am
+00:1A:79:b6:61:00	Active	July 25, 2026, 2:00 am
+00:1A:79:32:c2:46	Active	August 29, 2026, 11:59 am
+00:1A:79:bf:eb:4b	Active	August 9, 2026, 12:00 am
+00:1A:79:af:32:d1	Active	July 19, 2026, 12:00 am
+00:1A:79:90:0a:a1	Active	April 22, 2026, 12:00 am
+00:1A:79:ad:d1:5a	Active	March 18, 2026, 12:00 am
+00:1A:79:b5:49:64	Active	March 29, 2026, 12:00 am
+00:1A:79:2e:91:d2	Active	April 15, 2026, 12:00 am
+00:1A:79:53:5b:e2	Active	February 9, 2026, 1:00 am
+00:1A:79:48:03:24	Active	April 19, 2026, 12:00 am
+00:1A:79:54:45:d0	Active	December 1, 2025, 12:00 am
+00:1A:79:b5:45:36	Active	June 11, 2026, 7:54 pm
+00:1A:79:2b:4f:d8	Active	February 1, 2026, 1:00 am
+00:1A:79:79:78:9e	Active	September 3, 2026, 2:00 am
+00:1A:79:49:2e:fe	Active	August 5, 2026, 12:00 am
+
 http://portal8k.top:80/c/
 MAC Address   Status (as reported)   Expiry (original)
 00:1A:79:4c:cb:67   Active   February 12, 2026, 6:44 pm
@@ -3107,6 +3146,7 @@ PORT:http://q.qqtv.nl:8080/c
 ╭─●🖥 🅛🅘🅥🅔 🅣🅥 🖥
 
 ╰────● All «✨» |EU| FRANCE HEVC «✨» |EU| FRANCE GÉNÉRAL «✨» |EU| FRANCE SPORTS «✨» |EU| L’EQUIPE LIVE «✨» |EU| LIGUE 1+ VIP «✨» |EU| LIGUE 1+ «✨» |EU| FRANCE DAZN PPV «✨» |EU| FRANCE CANAL+ LIVE «✨» |EU| FRANCE ENFANTS «✨» |EU| FRANCE INFO «✨» |EU| FRANCE CINEMA «✨» |EU| FRANCE DOCUMENTAIRE «✨» |EU| FRANCE MUSIQUE «✨» |EU| LE MEILLEUR DES FILMS «✨» |EU| FRANCE CARRIBEAN «✨» |EU| FRANCE 4K «✨» |AR| BEIN SPORTS AFC «✨» |AR| BEIN SPORTS 8K «✨» |AR| BEIN SPORTS G «✨» |AR| BEIN SPORTS NX «✨» |AR| BEIN REPLAY «✨» |AR| BEIN SPORTS 4K «✨» |AR| BEIN SPORTS ᵁᴴᴰ «✨» |AR| BEIN SPORTS (UK) «✨» |AR| SHASHA SPORT «✨» |AR| DAZN PPV «✨» |AR| STARZPLAY / AD SPORTS «✨» |AR| THMANYAH «✨» |AR| BEIN ENTERTAINMENT «✨» |AR| BEIN PREMIUM PLAY «✨» |AR| ARABIC NEWS & FACTUAL «✨» |AR| ARABIC FULL SD «✨» |AR| SPORT FULL SD «✨» |AR| MOROCCO «✨» |AR| ALGERIA «✨» |AR| TUNISA «✨» |AR| ISLAMIC «✨» |AR| ARABIC KIDS «✨» |AR| ROTANA | ART «✨» |AR| MBC «✨» |AR| OSN «✨» |AR| AL FAJER «✨» |AR| EGYPT «✨» |AR| LEBANON «✨» |AR| UAE «✨» |AR| ABU DHABI SPORTS «✨» |AR| MAURITANIA «✨» |AR| LIBYA «✨» |AR| BAHRAIN «✨» |AR| JORDAN «✨» |AR| YEMEN «✨» |AR| SAOUDI «✨» |AR| SYRIA «✨» |AR| IRAQ «✨» |AR| SUDAN «✨» |AR| CHRISTIAN «✨» |AR| PALESTINE «✨» |AR| QATAR «✨» |AR| KUWAIT «✨» |AR| ARABIC VIP «✨» |AR| SPORT «✨» |AR| APPLE+ MLS PPV «✨» |AR| WATCHBOX 4K «✨» |AR| ACTORS 4K «✨» |AR| ROYA «✨» |AR| WEYYAK «✨» |AR| MAJESTIC 4K «✨» |AR| NETFLIX «✨» |AR| SHAHID. CINEMA «✨» |AR| GOBX GROUP «✨» |AR| SHAHID. VIP «✨» |AR| DRAMA PLAY «✨» |AR| COMEDY PLAY «✨» |AR| WATCH IT «✨» |AR| STARZ PLAY «✨» |AR| AMAZON PRIME «✨» |AR| HBO «✨» |AR| HULU «✨» |AR| TOD «✨» |AR| VIVO «✨» |AR| PREMIUM PLAY «✨» |AR| MUSIC «✨» |AR| CHEF OMAR «✨» |EU| BELGIQUE HD «✨» |EU| BELGIUM VL «✨» |EU| BELGIUM WL «✨» |EU| BE DAZN PPV VIP «✨» |EU| BE FR DAZN PPV VIP «✨» |EU| BE DAZN PPV «✨» |NL| ALGEMEEN «✨» |NL| SPORT «✨» |NL| VIAPLAY SPORT «✨» |NL| ESPN PLAY PPV «✨» |NL| KINDEREN «✨» |NL| FILMS EN SERIES «✨» |NL| ENTERTAINMENT «✨» |NL| MUZIEK «✨» |NL| NATUUR «✨» |NL| REGIONAAL «✨» |NL| BUITENLAND «✨» |EU| NEDERLAND 4K ULTRA «✨» |ES| REPETICIÓN DE FÚTBOL «✨» |ES| ESPAÑA HEVC «✨» |ES| TIVIFY «✨» |ES| ESPAÑA DAZN PPV «✨» |ES| GENERAL «✨» |ES| DEPORTES «✨» |ES| M+ LIGA DE CAMPEONES «✨» |ES| FEF TV EVENTOS «✨» |ES| CINEMA «✨» |ES| NIÑOS «✨» |ES| DOCUMENTALES «✨» |ES| LOCALS «✨» |ES| M.PELICULAS «✨» |ES| 24/7 SPANISH «✨» |DE| ALLGEMEINES «✨» |DE| SPORT «✨» |DE| AMAZON PRIME WIMBLEDON PPV «✨» |DE| SPORT DEUTSCHLAND PPV «✨» |DE| DAZN PRIME «✨» |DE| DYN NETWORK «✨» |DE| SKY FILM UND SERIE «✨» |DE| KINDER «✨» |DE| UNTERHALTUNG «✨» |DE| REGIONAL «✨» |DE| 4K+ PAKET «✨» |DE| NATUR «✨» |DE| 24/7 GERMANY «✨» |EU| AUSTRIA HD «✨» |IT| GENERALE «✨» |IT| CINEMA «✨» |IT| SPORT «✨» |IT| BAMBINI «✨» |IT| DOCUMENTARIO «✨» |UK| GENERAL «✨» |UK| MOVIES «✨» |UK| NEWS «✨» |UK| ENTERTAINMENT «✨» |UK| SPORTS «✨» |UK| EPL SOCCER «✨» |UK| NATIONAL LEAGUE «✨» |UK| EFL SOCCER «✨» |UK| AMAZON PRIME «✨» |UK| DISCOVERY+ PPV «✨» |UK| DAZN PPV «✨» |UK| NETFLIX PPV «✨» |UK| SKY STORE «✨» |UK| VIAPLAY PPV «✨» |UK| KIDS «✨» |UK| 24/7 KIDS «✨» |UK| DOCUMENTARY «✨» |UK| DISCOVERY+ «✨» |UK| 24/7 FLEX «✨» |UK| MUSIC «✨» |UK| PPV EVENTS «✨» |UK| WORLD SPORTS «✨» |UK| SCOTTISH FOOTBALL «✨» |UK| OTHER SPORTS «✨» |EN| 24/7 ENGLISH 4K «✨» |IE| IRELAND «✨» |IE| CLUBBER PPV «✨» |IE| SETANTA PPV «✨» |IE| LOI PPV «✨» |UK| SKY SPORT+ «✨» FORMULA 1 + MOTO GP «✨» |PT| EMGERAL «✨» |PT| DOCUMENTARIOS «✨» |PT| DESPORTO «✨» |PT| FILMES E SÉRIES «✨» |PT| CRIANÇAS «✨» |PT| INTERNACIONAL «✨» |EU| SWISS HD «✨» |PL| POLAND FHD «✨» |PL| INFORMACJE «✨» |PL| FILMOWE «✨» |PL| KULTURA «✨» |PL| OGÓLNE «✨» |PL| MUZYKA | DZIECI «✨» |PL| SPORTOWE «✨» |PL| NA HD «✨» |PL| WALKI PPV «✨» |PL| VIAPLAY SPORT «✨» |PL| MAX PPV «✨» |AS| TURKEY | ULUSAL «✨» |AS| TURKEY | DIGER «✨» |AS| TURKEY | COCUK «✨» |AS| TURKEY | SINEMA «✨» |AS| TURKEY | SPOR «✨» |AS| TURKEY | TABII SPOR «✨» |AS| TURKEY | REDBOX «✨» |AS| KURDISTAN «✨» |EU| CZECH «✨» |EU| ISRAEL «✨» |ALB| GENERAL «✨» |ALB| NEWS «✨» |ALB| MOVIES «✨» |ALB| DOCUMENTARY «✨» |ALB| CHILDREN «✨» |ALB| SPORTS «✨» |ALB| MUSIC «✨» |ALB| ISLAMIC «✨» |ALB| KOSOVO «✨» |EU| ROMANIA «✨» |GR| Γενικά «✨» |GR| Ντοκιμαντέρ «✨» |GR| Μουσικά «✨» |GR| Κυπριακά «✨» |GR| κινηματογράφος «✨» |GR| Αθλητικά «✨» |GR| Παιδικά «✨» |EU| RUSSIA «✨» |EU| BELARUS «✨» |EU| LITHUANIA «✨» |BLN| SPORTS «✨» |BLN| SERBIA «✨» |BLN| CROATIA «✨» |BLN| BOSNIA «✨» |BLN| SLOVENIA «✨» |BLN| MACEDONIA «✨» |BLN| MONTENEGRO «✨» |AU| AUSTRALIA «✨» |AU| AU ESPN PLAY PPV «✨» |AM| CANADA «✨» |NA| CANADA FR «✨» |NA| HOCKEY LEAGUE «✨» |AM| CANADA DAZN PPV «✨» |AM| AHL PPV «✨» |NA| USA GENERAL «✨» |NA| USA CW & MY «✨» |NA| USA NEWS «✨» |NA| USA KIDS «✨» |NA| USA MOVIES «✨» |NA| USA SPORTS «✨» |NA| USA ABC «✨» |NA| USA CBS «✨» |NA| USA FOX «✨» |NA| USA NBC «✨» |NA| USA PBS «✨» |NA| USA AMC+ NETWORK «✨» |NA| USA HULU NETWORK «✨» |NA| USA HBO MAX NETWORK «✨» |NA| USA PEACOCK NETWORK «✨» |NA| USA PARAMOUNT+ «✨» |NA| USA NBA «✨» |NA| USA WNBA «✨» |NA| USA NFL «✨» |NA| USA NHL «✨» |NA| USA NBCS «✨» |NA| USA MLB «✨» |NA| USA MILB «✨» |NA| USA NCAA «✨» |NA| USA DAZN PPV «✨» |NA| USA B1G+ PPV «✨» |NA| USA FLO PPV «✨» |NA| USA ESPN+ «✨» |NA| USA ESPN PLAY «✨» |NA| USA MLS «✨» |NA| USA NETFLIX PPV «✨» |NA| USA FLO «✨» |NA| TUDN SPORTS «✨» |NA| PPV LIVE EVENT «✨» |NA| TELEMUNDO «✨» |NA| UNIVISION «✨» |NA| 24/7 ENGLISH «✨» |EU| BULGARIA «✨» |EU| HUNGARIA «✨» |EU| UKRAINE «✨» |AM| BRAZIL «✨» |SA| LATINO «✨» |AM| PANAMA «✨» |AM| DOMINICANA REP «✨» |AM| CHILE «✨» |AM| HONDURAS «✨» |AM| COLOMBIA «✨» |AM| ARGENTINA «✨» |AM| BOLIVIA «✨» |AM| GUATEMALA «✨» |AM| ECUADOR «✨» |AM| ECUADOR DAZN PPV «✨» |AM| EL SALVADOR «✨» |AM| MEXICO «✨» |AM| PARAGUAY «✨» |AM| PERU «✨» |AM| URUGUAY «✨» |AM| COSTA RICA «✨» |AM| NICARAGUA «✨» |AS| IRAN «✨» WORLD CRICKET «✨» |AS| INDIA – EU «✨» |AS| INDIA «✨» |AS| PAKISTAN «✨» |AS| TAMIL «✨» |AS| SPORTS «✨» |AS| ENGLISH «✨» |AS| BANGLA «✨» |AS| PUNJABI «✨» |AS| GUJARATI «✨» |AS| MALAYALAM «✨» |AS| MARATHI «✨» |AS| TELUGU «✨» |AS| KANNADA «✨» |AS| BHOJPURI «✨» |AS| ASSAM «✨» |AS| NEPAL «✨» |AS| SRILANKA «✨» |AF| C+ AFRIQUE «✨» |AF| DSTV AFRIQUE «✨» |AF| SOMALIA «✨» |AF| SENEGAL «✨» |AF| AFRIQUE OTHERS «✨» |AF| CONGO/GABON «✨» |AF| CAMEROON «✨» |AF| GHANA «✨» |AF| NIGERIA «✨» |AF| MALI «✨» |AS| AFGHANISTAN «✨» |EU| SWEDEN HD «✨» |EU| SWEDEN VIAPLAY PPV «✨» |EU| SW MAX PPV «✨» |EU| DENMARK HD «✨» |EU| NORWAY HD «✨» |EU| FINLAND HD «✨» |AS| ARMENIA «✨» |EU| GEORGIE «✨» |AS| VIETNAM «✨» |AS| HONGKONG «✨» |AS| PHILIPPINES «✨» |SA| CARRIBEAN «✨» |AS| SOUTH KOREA «✨» |EU| CYPRUS «✨» |AS| MALAYSIA «✨» |NZ| NEW ZEALAND «✨» |SA| SURINAME «✨» |TH| THAILANDE «✨» |AZ| AZERBAYCAN «✨» JAPAN «✨» |MT| MALTA «✨» |AS| INDONESIA «✨» FOR ADULTS
+
 
 
 
