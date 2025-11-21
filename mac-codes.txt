@@ -1,3 +1,60 @@
+Portal: http://line.livesino.tv:80/c/
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:60:3f:39	Active	March 12, 2026, 1:00 am
+00:1A:79:5e:40:62	Active	July 11, 2026, 12:00 am
+00:1A:79:d5:2e:b6	Active	June 19, 2026, 12:00 am
+00:1A:79:77:31:51	Active	August 13, 2026, 12:00 am
+00:1A:79:d5:51:0b	Active	December 27, 2025, 12:00 am
+00:1A:79:d7:7f:48	Active	February 21, 2026, 12:00 am
+00:1A:79:84:03:14	Active	January 4, 2026, 9:10 pm
+00:1A:79:7d:cd:e7	Active	January 27, 2026, 7:54 pm
+00:1A:79:bf:94:e7	Active	September 5, 2026, 12:00 am
+00:1A:79:bc:6e:da	Active	August 5, 2026, 3:41 pm
+00:1A:79:81:fb:cd	Active	March 25, 2026, 12:00 am
+00:1A:79:39:31:36	Active	January 16, 2026, 12:00 am
+00:1A:79:32:c6:6e	Active	November 5, 2025, 8:13 pm
+00:1A:79:b6:48:a2	Active	February 19, 2026, 7:23 pm
+00:1A:79:cc:48:d1	Active	March 2, 2026, 12:00 am
+00:1A:79:74:1f:5f	Active	March 25, 2026, 12:00 am
+00:1A:79:6b:e3:d3	Active	February 21, 2026, 6:18 pm
+00:1A:79:c4:95:81	Active	September 5, 2026, 12:00 am
+00:1A:79:d5:54:c3	Active	December 3, 2025, 11:51 am
+00:1A:79:33:12:6d	Active	May 17, 2026, 12:00 am
+00:1A:79:72:3d:e3	Active	March 17, 2026, 3:14 pm
+00:1A:79:0b:3f:9c	Active	November 5, 2025, 8:13 pm
+00:1A:79:b3:e4:c7	Active	February 19, 2026, 7:23 pm
+00:1A:79:f1:ad:ee	Active	March 2, 2026, 12:00 am
+00:1A:79:2c:8f:c3	Active	March 25, 2026, 12:00 am
+00:1A:79:cd:58:02	Active	February 21, 2026, 6:18 pm
+00:1A:79:3a:0d:29	Active	September 5, 2026, 12:00 am
+00:1A:79:a1:cc:13	Active	December 3, 2025, 11:51 am
+00:1A:79:8a:3f:a8	Active	May 17, 2026, 12:00 am
+00:1A:79:51:20:5f	Active	March 17, 2026, 3:14 pm
+00:1A:79:e6:fc:07	Active	November 5, 2025, 8:13 pm
+00:1A:79:6e:ac:62	Active	November 25, 2025, 12:00 am
+00:1A:79:b5:d7:0a	Active	April 13, 2026, 10:37 pm
+00:1A:79:d5:64:f4	Active	July 1, 2026, 12:00 am
+00:1A:79:58:64:de	Active	August 18, 2026, 12:09 am
+00:1A:79:f5:22:bb	Active	December 28, 2025, 12:00 am
+00:1A:79:40:69:05	Active	March 8, 2026, 12:48 am
+00:1A:79:c5:16:d5	Active	May 17, 2026, 12:00 am
+00:1A:79:c6:32:7b	Active	March 17, 2026, 3:14 pm
+00:1A:79:c4:10:7c	Active	November 5, 2025, 8:13 pm
+00:1A:79:d4:4f:03	Active	November 25, 2025, 12:00 am
+00:1A:79:b5:99:82	Active	April 13, 2026, 10:37 pm
+00:1A:79:fd:3f:4f	Active	July 1, 2026, 12:00 am
+00:1A:79:1c:09:35	Active	August 18, 2026, 12:09 am
+00:1A:79:06:06:ad	Active	March 16, 2026, 12:00 am
+00:1A:79:bb:dc:55	Active	March 8, 2026, 12:48 am
+00:1A:79:b7:c3:4d	Active	May 17, 2026, 12:00 am
+00:1A:79:1d:93:ef	Active	March 17, 2026, 3:14 pm
+00:1A:79:42:eb:19	Active	November 5, 2025, 8:13 pm
+00:1A:79:cc:16:49	Active	November 25, 2025, 12:00 am
+00:1A:79:f0:90:28	Active	April 13, 2026, 10:37 pm
+00:1A:79:64:0e:9f	Active	July 1, 2026, 12:00 am
+00:1A:79:27:1f:6d	Active	August 18, 2026, 12:09 am
+00:1A:79:bd:33:a4	Active	March 16, 2026, 12:00 am
+
 ╔═❖»» PORTAL ADDRESS: http://cc2025.net/stalker_portal/c
 
 ╠ «❖» MAC=> 00:1A:79:E4:99:86
@@ -3158,4 +3215,5 @@
 ╰● 🅢🅘🅖🅝🅐🅣🅤🅡🅔 ➤➤ DDE2EADB5780CA212136A949E2B940722E1B339CA29646F1DBF7DF75FA67D9B2
 
 ╭─●🖥 🅛🅘🅥🅔 🅣🅥 🖥
+
 
