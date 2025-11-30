@@ -1,5 +1,129 @@
+Portal: http://pajdas.com:80/c/
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:63:30:2b	Active	September 26, 2026, 4:33 pm
+00:1A:79:ce:f2:3b	Active	December 27, 2025, 8:20 pm
+00:1A:79:b5:fa:b8	Active	January 21, 2026, 1:00 am
+00:1A:79:b4:f2:27	Active	August 13, 2026, 12:00 am
+00:1A:79:bd:34:f4	Active	December 27, 2025, 12:00 am
+00:1A:79:62:61:36	Active	February 21, 2026, 12:00 am
+00:1A:79:31:d1:3a	Active	January 2, 2026, 1:00 am
+00:1A:79:62:3f:a1	Active	January 27, 2026, 7:54 pm
+00:1A:79:e5:da:7f	Active	September 5, 2026, 12:00 am
+00:1A:79:a2:12:52	Active	August 5, 2026, 3:41 pm
+00:1A:79:13:ed:b2	Active	March 25, 2026, 12:00 am
+00:1A:79:40:f6:d2	Active	January 16, 2026, 12:00 am
+00:1A:79:f1:14:86	Active	November 5, 2025, 8:13 pm
+00:1A:79:2b:a5:d9	Active	February 19, 2026, 7:23 pm
+00:1A:79:36:c8:58	Active	April 1, 2027, 12:00 am
+00:1A:79:d9:e7:da	Active	March 25, 2026, 12:00 am
+00:1A:79:52:3b:84	Active	February 21, 2026, 6:18 pm
+00:1A:79:01:7e:7c	Active	September 5, 2026, 12:00 am
+00:1A:79:b0:65:c4	Active	August 5, 2026, 3:41 pm
+00:1A:79:c0:49:c1	Active	March 25, 2026, 12:00 am
+00:1A:79:19:a9:62	Active	January 16, 2026, 12:00 am
+00:1A:79:b5:48:a3	Active	November 5, 2025, 8:13 pm
+00:1A:79:10:40:b5	Active	February 19, 2026, 7:23 pm
+00:1A:79:7e:27:dc	Active	March 2, 2026, 12:00 am
+00:1A:79:1f:0f:dc	Active	March 25, 2026, 12:00 am
+00:1A:79:b8:d8:9e	Active	February 21, 2026, 6:18 pm
+00:1A:79:c9:93:bb	Active	September 5, 2026, 12:00 am
+00:1A:79:99:3f:d2	Active	August 5, 2026, 3:41 pm
+00:1A:79:bf:dd:1b	Active	March 25, 2026, 12:00 am
+00:1A:79:94:4a:54	Active	January 16, 2026, 12:00 am
+00:1A:79:e6:5c:58	Active	November 5, 2025, 8:13 pm
+00:1A:79:bd:b7:7c	Active	February 19, 2026, 7:23 pm
+00:1A:79:c3:7a:eb	Active	March 2, 2026, 12:00 am
+00:1A:79:b0:65:c4	Active	March 25, 2026, 12:00 am
+00:1A:79:11:03:af	Active	February 21, 2026, 6:18 pm
+00:1A:79:b5:95:a0	Active	September 5, 2026, 12:00 am
+00:1A:79:72:fa:7a	Active	August 5, 2026, 3:41 pm
+00:1A:79:e8:0c:52	Active	March 25, 2026, 12:00 am
+00:1A:79:07:04:5a	Active	January 16, 2026, 12:00 am
+00:1A:79:03:0e:53	Active	November 5, 2025, 8:13 pm
+00:1A:79:d3:7e:9d	Active	February 19, 2026, 7:23 pm
+00:1A:79:24:82:dc	Active	March 2, 2026, 12:00 am
+00:1A:79:bb:fa:bc	Active	March 25, 2026, 12:00 am
+00:1A:79:aa:e5:5d	Active	February 21, 2026, 6:18 pm
+00:1A:79:09:35:6f	Active	September 5, 2026, 12:00 am
+00:1A:79:c4:3e:39	Active	August 5, 2026, 3:41 pm
+00:1A:79:7a:97:6f	Active	March 25, 2026, 12:00 am
+00:1A:79:72:87:09	Active	January 16, 2026, 12:00 am
+00:1A:79:79:bf:a8	Active	November 5, 2025, 8:13 pm
+00:1A:79:00:25:f6	Active	February 19, 2026, 7:23 pm
 
-Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:33:8F:3FExpires17/04/2027(509Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:27Expires21/11/2026(362Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:C5Expires16/11/2026(357Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:2AExpires07/11/2026(348Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:A7Expires07/11/2026(348Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:F8Expires07/11/2026(348Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:17:06:07Expires10/10/2026(320Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:89Expires06/10/2026(316Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:00:25:F7Expires06/09/2026(286Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:33:8F:B0Expires27/08/2026(276Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:AF:93:5CExpires24/08/2026(273Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:AF:93:EEExpires14/08/2026(263Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:AF:93:EAExpires14/08/2026(263Days)Panelhttp://tv.trexiptv.com/c/Mac00:1A:79:17:06:7DExpires03/08/2026(252Days)
+Portal: http://mag.realvip.co:80/c/
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:65:fd:34	Active	September 26, 2026, 4:33 pm
+00:1A:79:c3:c3:94	Active	December 27, 2025, 8:20 pm
+00:1A:79:7b:f8:3a	Active	January 21, 2026, 1:00 am
+00:1A:79:55:45:0c	Active	August 13, 2026, 12:00 am
+00:1A:79:e8:0e:f1	Active	December 27, 2025, 12:00 am
+00:1A:79:74:fb:be	Active	February 21, 2026, 12:00 am
+00:1A:79:c7:c6:d8	Active	January 2, 2026, 1:00 am
+00:1A:79:15:4a:53	Active	January 27, 2026, 7:54 pm
+00:1A:79:4e:3e:c1	Active	September 5, 2026, 12:00 am
+00:1A:79:7f:3f:ae	Active	August 5, 2026, 3:41 pm
+00:1A:79:a5:49:78	Active	March 25, 2026, 12:00 am
+00:1A:79:bf:9d:01	Active	January 16, 2026, 12:00 am
+00:1A:79:ec:db:5c	Active	November 5, 2025, 8:13 pm
+00:1A:79:80:0f:90	Active	February 19, 2026, 7:23 pm
+00:1A:79:76:6c:fe	Active	April 1, 2027, 12:00 am
+00:1A:79:ff:07:e8	Active	March 25, 2026, 12:00 am
+00:1A:79:4e:0c:92	Active	February 21, 2026, 6:18 pm
+00:1A:79:b4:e7:d9	Active	September 5, 2026, 12:00 am
+00:1A:79:6c:9e:76	Active	August 5, 2026, 3:41 pm
+00:1A:79:09:12:5a	Active	March 25, 2026, 12:00 am
+00:1A:79:b6:2b:67	Active	January 16, 2026, 12:00 am
+00:1A:79:82:97:a3	Active	November 5, 2025, 8:13 pm
+00:1A:79:b1:fb:60	Active	February 19, 2026, 7:23 pm
+00:1A:79:8c:0b:56	Active	March 2, 2026, 12:00 am
+00:1A:79:e6:ba:15	Active	March 25, 2026, 12:00 am
+00:1A:79:a4:a8:ef	Active	February 21, 2026, 6:18 pm
+00:1A:79:d6:ff:df	Active	September 5, 2026, 12:00 am
+00:1A:79:81:f0:c1	Active	August 5, 2026, 3:41 pm
+00:1A:79:78:b1:72	Active	March 25, 2026, 12:00 am
+00:1A:79:aa:75:1a	Active	January 16, 2026, 12:00 am
+00:1A:79:a5:a9:17	Active	November 5, 2025, 8:13 pm
+00:1A:79:ac:1e:5b	Active	February 19, 2026, 7:23 pm
+00:1A:79:b5:5b:d3	Active	March 2, 2026, 12:00 am
+00:1A:79:a9:d0:8f	Active	March 25, 2026, 12:00 am
+00:1A:79:b4:49:4d	Active	February 21, 2026, 6:18 pm
+00:1A:79:d0:65:34	Active	September 5, 2026, 12:00 am
+00:1A:79:d5:61:30	Active	August 5, 2026, 3:41 pm
+00:1A:79:79:0f:29	Active	March 25, 2026, 12:00 am
+00:1A:79:a3:59:0c	Active	January 16, 2026, 12:00 am
+00:1A:79:c1:cd:59	Active	November 5, 2025, 8:13 pm
+00:1A:79:19:38:8a	Active	February 19, 2026, 7:23 pm
+00:1A:79:b9:7d:df	Active	March 2, 2026, 12:00 am
+00:1A:79:e6:e6:4e	Active	March 25, 2026, 12:00 am
+00:1A:79:4b:ab:33	Active	February 21, 2026, 6:18 pm
+00:1A:79:98:9a:ae	Active	September 5, 2026, 12:00 am
+00:1A:79:e0:03:47	Active	August 5, 2026, 3:41 pm
+00:1A:79:b6:2b:47	Active	March 25, 2026, 12:00 am
+00:1A:79:a0:90:16	Active	January 16, 2026, 12:00 am
+00:1A:79:50:da:85	Active	November 5, 2025, 8:13 pm
+00:1A:79:80:e1:21	Active	February 19, 2026, 7:23 pm
+00:1A:79:54:a5:0b	Active	March 2, 2026, 12:00 am
+00:1A:79:70:35:b2	Active	March 25, 2026, 12:00 am
+00:1A:79:a5:50:25	Active	February 21, 2026, 6:18 pm
+00:1A:79:98:3f:75	Active	September 5, 2026, 12:00 am
+
+PORTAL : http://panel.ooguy.com:82/stalker_portal/c/
+MAC : 00:1A:79:C3:BF:2C
+MAC : 00:1A:79:C2:79:C9
+MAC : 00:1A:79:01:82:30
+MAC : 00:1A:79:F1:AF:BF
+MAC : 00:1A:79:A1:FC:E8
+MAC : 00:1A:79:C6:19:AD
+MAC : 00:1A:79:E2:D6:73
+MAC : 00:1A:79:FB:1C:B1
+MAC : 00:1A:79:01:88:32
+MAC : 00:1A:79:01:88:83
+MAC : 00:1A:79:F1:AF:B6
+MAC : 00:1A:79:D3:B2:3C
+MAC : 00:1A:79:01:83:BC
+MAC : 00:1A:79:01:83:5D
+MAC : 00:1A:79:01:83:5E
 
 ╠🅱🌍𝗥𝗲𝗮𝗹➤http://iptvuser.xyz:80/c/
 
@@ -2299,21 +2423,3 @@ Client IP :  ()
 Total Channels : 3780 🅰➤URL➤ www.iptvcodes.org💥ENGLISH💥CINEMA - ENGLISH💥US - LOCAL NETWORK CH.💥KIDS + FAMILY💥SPORTS💥PPV EVENTS💥US FOOTBALL💥HOCKEY💥BASEBALL💥BASKETBALL💥SOCCER💥CRICKET💥NCAA💥WWE💥PREMIUM SPORTS💥CHRISTIAN 💥FRENCH💥CHINESE💥VIETNAMESE💥FILIPINO💥ITALIAN💥GREEK💥ISRAEL💥POLISH💥RUSSIAN💥BALKANS💥PORTUGUESE💥BRASILIAN💥AFRICAN💥CARIBBEAN💥HAITIAN💥24HR STREAMS💥ADULT CONTENT💥SPANISH NETWORKS💥PELICULAS💥DEPORTES💥ARGENTINA💥BOLIVIA💥CHILE💥COLOMBIA💥CUBA💥COSTA RICA💥DOMINICAN REPUBLIC💥ECUADOR💥EL SALVADOR💥GUATEMALA💥HONDURAS💥NICARAGUA💥MEXICO💥PANAMA💥PERU💥PUERTO RICO💥URUGUAY💥VENEZUELA💥HINDI💥PUNJABI💥URDU💥BANGLA💥MALAYALAM💥MARATHI💥TAMIL💥AFGHAN/PERSIAN💥ARABIC INTERNATIONAL💥ARABIC NEWS💥ARABIC CHILDREN 💥ARABIC SPORTS💥ARABIC CHRISTIAN💥ARABIC MUSIC💥ISLAMIC CHANNELS💥OSN💥ROTANA💥MBC💥ALGERIA💥BAHRAIN💥EGYPT💥IRAQ💥JORDAN💥KURDISH💥KUWAIT💥LIBYA💥LEBANON💥MAURITANIAN💥MOROCCO💥PALESTINE💥QATAR💥SAUDI ARABIA💥SUDAN💥SYRIA💥TEHRAN💥TUNISIA💥TURKISH💥UAE💥YEMEN
 
 Total VOD : 2190 🅰➤URL➤ www.iptvcodes.org⚜️TRENDING MOVIES⚜️MOVIES CURRENT+OLDER⚜️DOCUMENTARY FILMS⚜️FAMILY MOVIES⚜️FRENCH MOVIES⚜️KOREAN MOVIES⚜️EAST ASIAN CINEMA⚜️SPANISH MOVIES⚜️PORTUGUESE MOVIES⚜️ANIME MOVIES⚜️STANDUP COMICS⚜️SPECIAL EVENTS⚜️ADULT CONTENT (XXX)
-
-PORTAL : http://panel.ooguy.com:82/stalker_portal/c/
-MAC : 00:1A:79:C3:BF:2C
-MAC : 00:1A:79:C2:79:C9
-MAC : 00:1A:79:01:82:30
-MAC : 00:1A:79:F1:AF:BF
-MAC : 00:1A:79:A1:FC:E8
-MAC : 00:1A:79:C6:19:AD
-MAC : 00:1A:79:E2:D6:73
-MAC : 00:1A:79:FB:1C:B1
-MAC : 00:1A:79:01:88:32
-MAC : 00:1A:79:01:88:83
-MAC : 00:1A:79:F1:AF:B6
-MAC : 00:1A:79:D3:B2:3C
-MAC : 00:1A:79:01:83:BC
-MAC : 00:1A:79:01:83:5D
-MAC : 00:1A:79:01:83:5E
-
