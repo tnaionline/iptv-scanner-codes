@@ -2,6 +2,36 @@
 📺 Telegram : https://t.me/xtremcodeclub 📺
 🅰➤URL➤ www.iptvcodes.org
 
+Portal: http://cheesynanterre.com:80/c/
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:ff:2b:52	Active	July 15, 2026, 9:41 pm
+00:1A:79:47:7f:02	Active	December 27, 2025, 8:20 pm
+00:1A:79:a1:98:cb	Active	January 21, 2026, 1:00 am
+00:1A:79:60:a5:13	Active	August 13, 2026, 12:00 am
+00:1A:79:78:85:79	Active	December 27, 2025, 12:00 am
+00:1A:79:bf:7b:50	Active	February 21, 2026, 12:00 am
+00:1A:79:32:33:30	Active	January 2, 2026, 1:00 am
+00:1A:79:6b:2b:fa	Active	January 27, 2026, 7:54 pm
+00:1A:79:6e:64:7f	Active	September 5, 2026, 12:00 am
+00:1A:79:79:83:68	Active	August 5, 2026, 3:41 pm
+00:1A:79:0e:bb:5c	Active	March 25, 2026, 12:00 am
+00:1A:79:a5:14:73	Active	January 16, 2026, 12:00 am
+00:1A:79:dc:45:37	Active	September 9, 2026, 1:58 am
+00:1A:79:b5:a1:39	Active	May 31, 2026, 12:00 am
+00:1A:79:6d:ce:91	Active	December 20, 2025, 11:11 pm
+00:1A:79:50:2b:a4	Active	April 5, 2026, 10:44 pm
+00:1A:79:24:a9:13	Active	December 29, 2025, 5:48 pm
+00:1A:79:05:e5:b7	Active	December 23, 2025, 12:00 am
+00:1A:79:71:65:f7	Active	June 11, 2026, 12:00 am
+00:1A:79:c1:eb:e5	Active	March 25, 2026, 12:00 am
+00:1A:79:5f:5e:71	Active	January 16, 2026, 12:00 am
+00:1A:79:bc:66:c4	Active	September 9, 2026, 1:58 am
+00:1A:79:e1:3b:a8	Active	May 31, 2026, 12:00 am
+00:1A:79:26:dc:81	Active	June 29, 2026, 4:15 pm
+00:1A:79:25:73:33	Active	April 5, 2026, 10:44 pm
+00:1A:79:c8:1e:dc	Active	December 29, 2025, 5:48 pm
+00:1A:79:06:3f:4e	Active	December 23, 2025, 12:00 am
+
 Portal: http://tv-nova.com:80/c/
 MAC Address	Status (as reported)	Expiry (original)
 00:1A:79:58:23:ed	Active	July 15, 2026, 9:41 pm
@@ -165,3 +195,4 @@ http://txsmart.pro:80/c/
 00:1A:79:03:0B:9F
 00:1A:79:51:A3:58
 00:1A:79:7B:AC:25
+
