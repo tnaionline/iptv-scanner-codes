@@ -2,197 +2,50 @@
 📺 Telegram : https://t.me/xtremcodeclub 📺
 🅰➤URL➤ www.iptvcodes.org
 
-Portal: http://cheesynanterre.com:80/c/
+Portal: http://dua-doa.me:80/c/
 MAC Address	Status (as reported)	Expiry (original)
-00:1A:79:ff:2b:52	Active	July 15, 2026, 9:41 pm
-00:1A:79:47:7f:02	Active	December 27, 2025, 8:20 pm
-00:1A:79:a1:98:cb	Active	January 21, 2026, 1:00 am
-00:1A:79:60:a5:13	Active	August 13, 2026, 12:00 am
-00:1A:79:78:85:79	Active	December 27, 2025, 12:00 am
-00:1A:79:bf:7b:50	Active	February 21, 2026, 12:00 am
-00:1A:79:32:33:30	Active	January 2, 2026, 1:00 am
-00:1A:79:6b:2b:fa	Active	January 27, 2026, 7:54 pm
-00:1A:79:6e:64:7f	Active	September 5, 2026, 12:00 am
-00:1A:79:79:83:68	Active	August 5, 2026, 3:41 pm
-00:1A:79:0e:bb:5c	Active	March 25, 2026, 12:00 am
-00:1A:79:a5:14:73	Active	January 16, 2026, 12:00 am
-00:1A:79:dc:45:37	Active	September 9, 2026, 1:58 am
-00:1A:79:b5:a1:39	Active	May 31, 2026, 12:00 am
-00:1A:79:6d:ce:91	Active	December 20, 2025, 11:11 pm
-00:1A:79:50:2b:a4	Active	April 5, 2026, 10:44 pm
-00:1A:79:24:a9:13	Active	December 29, 2025, 5:48 pm
-00:1A:79:05:e5:b7	Active	December 23, 2025, 12:00 am
-00:1A:79:71:65:f7	Active	June 11, 2026, 12:00 am
-00:1A:79:c1:eb:e5	Active	March 25, 2026, 12:00 am
-00:1A:79:5f:5e:71	Active	January 16, 2026, 12:00 am
-00:1A:79:bc:66:c4	Active	September 9, 2026, 1:58 am
-00:1A:79:e1:3b:a8	Active	May 31, 2026, 12:00 am
-00:1A:79:26:dc:81	Active	June 29, 2026, 4:15 pm
-00:1A:79:25:73:33	Active	April 5, 2026, 10:44 pm
-00:1A:79:c8:1e:dc	Active	December 29, 2025, 5:48 pm
-00:1A:79:06:3f:4e	Active	December 23, 2025, 12:00 am
-
-Portal: http://tv-nova.com:80/c/
-MAC Address	Status (as reported)	Expiry (original)
-00:1A:79:58:23:ed	Active	July 15, 2026, 9:41 pm
-00:1A:79:ae:3f:1b	Active	December 27, 2025, 8:20 pm
-00:1A:79:c6:1b:d3	Active	January 21, 2026, 1:00 am
-00:1A:79:a1:ca:5a	Active	August 13, 2026, 12:00 am
-00:1A:79:da:22:1f	Active	December 27, 2025, 12:00 am
-00:1A:79:29:b6:43	Active	February 21, 2026, 12:00 am
-00:1A:79:45:2f:1a	Active	January 2, 2026, 1:00 am
-00:1A:79:3b:b5:1b	Active	January 27, 2026, 7:54 pm
-00:1A:79:a3:ba:80	Active	September 5, 2026, 12:00 am
-00:1A:79:aa:60:6d	Active	August 5, 2026, 3:41 pm
-00:1A:79:00:20:ba	Active	March 25, 2026, 12:00 am
-00:1A:79:d8:7d:6f	Active	January 16, 2026, 12:00 am
-00:1A:79:7d:d3:0c	Active	September 9, 2026, 1:58 am
-00:1A:79:b9:77:8b	Active	May 31, 2026, 12:00 am
-00:1A:79:24:7e:31	Active	December 20, 2025, 11:11 pm
-00:1A:79:74:db:03	Active	April 5, 2026, 10:44 pm
-00:1A:79:46:fb:0c	Active	December 29, 2025, 5:48 pm
-00:1A:79:b5:5e:f7	Active	December 23, 2025, 12:00 am
-00:1A:79:b0:5b:96	Active	June 11, 2026, 12:00 am
-00:1A:79:18:c1:f1	Active	March 25, 2026, 12:00 am
-00:1A:79:bd:b7:7c	Active	January 16, 2026, 12:00 am
-00:1A:79:6a:81:f5	Active	September 9, 2026, 1:58 am
-00:1A:79:81:9a:68	Active	May 31, 2026, 12:00 am
-00:1A:79:c6:73:8b	Active	June 29, 2026, 4:15 pm
-00:1A:79:1a:ee:5c	Active	April 5, 2026, 10:44 pm
-00:1A:79:8c:4f:1b	Active	December 29, 2025, 5:48 pm
-00:1A:79:b5:9a:43	Active	December 23, 2025, 12:00 am
-00:1A:79:75:68:0a	Active	June 11, 2026, 12:00 am
-00:1A:79:4f:e8:2e	Active	March 25, 2026, 12:00 am
-00:1A:79:b6:5f:60	Active	January 16, 2026, 12:00 am
-00:1A:79:83:8f:c7	Active	September 9, 2026, 1:58 am
-00:1A:79:ad:fb:d6	Active	May 31, 2026, 12:00 am
-00:1A:79:47:be:da	Active	June 29, 2026, 4:15 pm
-00:1A:79:b5:5e:de	Active	April 5, 2026, 10:44 pm
-00:1A:79:b6:fe:3c	Active	December 29, 2025, 5:48 pm
-00:1A:79:f0:22:32	Active	December 23, 2025, 12:00 am
-00:1A:79:74:cb:b7	Active	June 11, 2026, 12:00 am
-00:1A:79:a3:bb:20	Active	March 25, 2026, 12:00 am
-00:1A:79:b6:48:9e	Active	January 16, 2026, 12:00 am
-00:1A:79:c3:ce:65	Active	September 9, 2026, 1:58 am
-00:1A:79:62:fb:57	Active	May 31, 2026, 12:00 am
-00:1A:79:7e:31:3a	Active	June 29, 2026, 4:15 pm
-00:1A:79:d2:0f:c6	Active	April 5, 2026, 10:44 pm
-00:1A:79:2b:8f:b1	Active	December 29, 2025, 5:48 pm
-00:1A:79:24:7a:21	Active	December 23, 2025, 12:00 am
-00:1A:79:fb:50:72	Active	June 11, 2026, 12:00 am
-00:1A:79:32:c3:7a	Active	March 25, 2026, 12:00 am
-00:1A:79:f1:b5:42	Active	January 16, 2026, 12:00 am
-00:1A:79:c6:0f:60	Active	September 9, 2026, 1:58 am
-00:1A:79:ce:65:48	Active	May 31, 2026, 12:00 am
-00:1A:79:fb:50:06	Active	June 29, 2026, 4:15 pm
-00:1A:79:2c:0c:85	Active	April 5, 2026, 10:44 pm
-00:1A:79:c4:f3:e1	Active	December 29, 2025, 5:48 pm
-00:1A:79:4c:12:9d	Active	December 23, 2025, 12:00 am
-00:1A:79:fb:1e:c1	Active	June 11, 2026, 12:00 am
-00:1A:79:75:3c:55	Active	March 25, 2026, 12:00 am
-00:1A:79:74:ba:eb	Active	January 16, 2026, 12:00 am
-00:1A:79:1c:15:20	Active	September 9, 2026, 1:58 am
-00:1A:79:fb:50:e2	Active	May 31, 2026, 12:00 am
-00:1A:79:85:b1:b4	Active	June 29, 2026, 4:15 pm
-00:1A:79:b6:5e:8c	Active	September 17, 2027, 12:00 am
-00:1A:79:15:85:4d	Active	December 29, 2025, 5:48 pm
-00:1A:79:d6:76:0b	Active	December 23, 2025, 12:00 am
-
-http://viphome1.com:8080/c/
-00:1A:79:1f:5c:34
-00:1A:79:92:bb:2e
-00:1A:79:64:c3:3c
-00:1A:79:44:da:fe
-00:1A:79:37:65:a1
-00:1A:79:5a:a2:6d
-00:1A:79:52:d4:b2
-00:1A:79:92:30:28
-00:1A:79:71:35:3a
-00:1A:79:9e:3e:70
-
-http://alpha-2ott.me:80/c/
-00:1A:79:3D:53:93
-00:1B:79:4A:05:D8
-00:1B:79:F0:2A:0C
-00:1B:79:F0:4E:47
-00:1B:79:4C:F4:80
-00:1B:79:22:1C:7A
-00:1B:79:3D:32:43
-00:1B:79:19:6C:D6
-00:1B:79:F0:F4:ED
-00:1B:79:42:14:F0
-00:1B:79:3D:21:32
-00:1B:79:35:2D:6A
-00:1B:79:F0:ED:BF
-
-http://backup.xp1.tv/c/
-00:1A:79:50:DD:4C
-00:1A:79:BD:BF:EF
-00:1A:79:A3:67:8C
-00:1A:79:BD:BD:8C
-00:1A:79:BD:BF:DB
-00:1A:79:A4:68:4E
-00:1A:79:BC:8D:98
-00:1A:79:A9:D5:ED
-
-http://line.iptvgoat.com/c/
-00:1A:79:E6:6E:0E
-00:1A:79:00:27:10
-
-http://line.iptvgoat.com/c/
-00:1A:79:E6:6E:0E
-00:1A:79:00:27:10
-00:1A:79:C0:09:2C
-00:1A:79:33:F2:85
-00:1A:79:C0:09:DA
-00:1A:79:33:F2:88
-00:1A:79:CD:4B:AA
-
-http://tv-365.vip:80/c/
-00:1A:79:43:25:34
-00:1A:79:97:B9:DF
-00:1A:79:DA:D0:18
-00:1A:79:47:35:0F
-00:1A:79:CF:62:F4
-
-http://honeywatch.net/c/
-00:1A:79:A6:B1:65
-00:1A:79:A6:B1:86
-00:1A:79:CE:BC:58
-
-http://ds.raptortv.de/c/
-00:1A:79:10:E1:1D
-
-http://pinkstar-diamant.eu:80/c/
-00:1A:79:A8:27:3F
-00:1A:79:CD:D3:F6
-00:1A:79:1D:8F:8D
-
-http://newtv8k.com:80/c/
-00:1A:79:3B:07:65
-00:1A:79:84:8C:8F
-00:1A:79:C3:8A:84
-00:1A:79:9A:29:90
-00:1A:79:6F:1F:CA
-
-http://calo-didic.pro:80/c/
-00:1A:79:20:2B:AB
-00:1A:79:66:38:31
-00:1A:79:D4:B5:30
-00:1A:79:73:0D:C8
-00:1A:79:D2:A5:BB
-
-http://dragonpremiumlife.xyz:80/c/
-00:1A:79:B8:5F:62
-00:1A:79:D5:3F:69
-00:1A:79:C6:97:E3
-00:1A:79:BE:61:1B
-00:1A:79:AB:7B:32
-00:1A:79:2C:02:4A
-
-http://txsmart.pro:80/c/
-00:1A:79:43:72:B2
-00:1A:79:03:0B:9F
-00:1A:79:51:A3:58
-00:1A:79:7B:AC:25
-
+00:1A:79:c0:80:46	Active	July 15, 2026, 9:41 pm
+00:1A:79:35:a3:6f	Active	December 27, 2025, 8:20 pm
+00:1A:79:af:19:56	Active	January 21, 2026, 1:00 am
+00:1A:79:42:a6:8f	Active	August 13, 2026, 12:00 am
+00:1A:79:e0:07:14	Active	December 27, 2025, 12:00 am
+00:1A:79:3b:7f:91	Active	February 21, 2026, 12:00 am
+00:1A:79:74:b4:64	Active	January 2, 2026, 1:00 am
+00:1A:79:5f:60:bc	Active	January 27, 2026, 7:54 pm
+00:1A:79:80:2d:f0	Active	September 5, 2026, 12:00 am
+00:1A:79:f4:bd:4b	Active	August 5, 2026, 3:41 pm
+00:1A:79:1b:bc:8f	Active	March 25, 2026, 12:00 am
+00:1A:79:08:1f:43	Active	January 16, 2026, 12:00 am
+00:1A:79:7a:04:53	Active	September 9, 2026, 1:58 am
+00:1A:79:1b:8b:ce	Active	May 31, 2026, 12:00 am
+00:1A:79:f8:98:7c	Active	December 20, 2025, 11:11 pm
+00:1A:79:8a:c8:80	Active	April 5, 2026, 10:44 pm
+00:1A:79:f2:fe:cc	Active	December 29, 2025, 5:48 pm
+00:1A:79:c0:48:07	Active	December 23, 2025, 12:00 am
+00:1A:79:51:19:60	Active	June 11, 2026, 12:00 am
+00:1A:79:27:fc:79	Active	March 25, 2026, 12:00 am
+00:1A:79:c1:53:c4	Active	January 16, 2026, 12:00 am
+00:1A:79:e6:2c:ac	Active	September 9, 2026, 1:58 am
+00:1A:79:86:71:68	Active	May 31, 2026, 12:00 am
+00:1A:79:00:8d:ec	Active	August 27, 2026, 4:22 am
+00:1A:79:f5:3e:5e	Active	August 27, 2026, 12:00 am
+00:1A:79:bf:b3:de	Active	December 15, 2025, 12:00 am
+00:1A:79:48:71:6e	Active	February 9, 2026, 12:12 pm
+00:1A:79:ff:3c:13	Active	June 11, 2026, 12:00 am
+00:1A:79:89:4c:3e	Active	March 25, 2026, 12:00 am
+00:1A:79:c6:71:84	Active	January 16, 2026, 12:00 am
+00:1A:79:aa:00:bd	Active	September 9, 2026, 1:58 am
+00:1A:79:2b:22:ff	Active	May 31, 2026, 12:00 am
+00:1A:79:b8:0a:56	Active	August 27, 2026, 4:22 am
+00:1A:79:ba:a2:51	Active	August 27, 2026, 12:00 am
+00:1A:79:ad:59:8f	Active	December 15, 2025, 12:00 am
+00:1A:79:92:9b:00	Active	February 9, 2026, 12:12 pm
+00:1A:79:37:63:3d	Active	June 11, 2026, 12:00 am
+00:1A:79:76:7f:78	Active	March 25, 2026, 12:00 am
+00:1A:79:ab:62:23	Active	January 16, 2026, 12:00 am
+00:1A:79:1a:e4:c7	Active	September 9, 2026, 1:58 am
+00:1A:79:74:95:0d	Active	May 31, 2026, 12:00 am
+00:1A:79:64:30:62	Active	August 27, 2026, 4:22 am
+00:1A:79:24:76:4d	Active	August 27, 2026, 12:00 am
+00:1A:79:33:62:8e	Active	December 15, 2025, 12:00 am
+00:1A:79:b8:8b:08	Active	February 9, 2026, 12:12 pm
