@@ -2,6 +2,45 @@
 📺 Telegram : https://t.me/xtremcodeclub 📺
 🅰➤URL➤ www.iptvcodes.org
 
+Portal: http://itran-xplus.xyz/c/
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:b3:37:44	Active	September 14, 2026, 12:00 am 276 Days
+00:1A:79:b5:a3:dc	Active	September 17, 2026, 12:00 am 281 Days
+00:1A:79:7a:35:b3	Active	August 30, 2026, 12:00 am 261 Days
+00:1A:79:4f:e0:26	Active	September 23, 2026, 12:00 am 287 Days
+00:1A:79:d7:84:35	Active	May 3, 2026, 2:00 am 144 Days
+00:1A:79:90:24:71	Active	August 9, 2026, 12:00 am 242 Days
+00:1A:79:b5:8a:7e	Active	August 17, 2026, 12:00 am 250 Days
+00:1A:79:ab:f1:5d	Active	May 16, 2026, 12:00 am 157 Days
+00:1A:79:2f:00:af	Active	January 6, 2026, 1:00 am 27 Days
+00:1A:79:cb:6b:86	Active	August 5, 2026, 3:41 pm
+00:1A:79:12:13:14	Active	March 25, 2026, 12:00 am
+00:1A:79:c4:a7:86	Active	January 16, 2026, 12:00 am
+00:1A:79:81:a3:4c	Active	September 9, 2026, 1:58 am
+00:1A:79:5b:30:5d	Active	May 31, 2026, 12:00 am
+00:1A:79:d1:17:35	Active	December 20, 2025, 11:11 pm
+00:1A:79:cc:16:34	Active	April 5, 2026, 10:44 pm
+00:1A:79:7d:f1:af	Active	December 29, 2025, 5:48 pm
+00:1A:79:d3:87:5d	Active	December 23, 2025, 12:00 am
+00:1A:79:af:10:b4	Active	June 11, 2026, 12:00 am
+00:1A:79:81:70:34	Active	March 25, 2026, 12:00 am
+00:1A:79:f5:2e:e1	Active	January 16, 2026, 12:00 am
+00:1A:79:7d:dd:40	Active	September 9, 2026, 1:58 am
+00:1A:79:4a:ed:62	Active	May 31, 2026, 12:00 am
+00:1A:79:63:e5:99	Active	August 27, 2026, 4:22 am
+00:1A:79:07:5f:b0	Active	August 27, 2026, 12:00 am
+00:1A:79:d3:3d:31	Active	December 15, 2025, 12:00 am
+00:1A:79:82:ba:6f	Active	January 19, 2026, 1:00 am 39 Days
+00:1A:79:b0:6b:c9	Active	April 3, 2026, 12:00 am
+00:1A:79:56:5f:33	Active	March 3, 2026, 1:00 am
+00:1A:79:ca:6a:4d	Active	January 10, 2026, 12:00 am
+00:1A:79:ca:dd:b7	Active	May 12, 2026, 12:00 am
+00:1A:79:c1:3b:bb	Active	October 4, 2026, 2:00 am
+00:1A:79:c7:22:dc	Active	March 2, 2026, 12:00 am
+00:1A:79:68:7b:bf	Active	February 16, 2026, 1:00 am
+00:1A:79:af:7e:9e	Active	February 2, 2026, 8:00 pm
+00:1A:79:99:41:f7	Active	February 22, 2026, 12:00 am
+
 Portal: http://synciptv.org:80/c/
 MAC Address	Status (as reported)	Expiry (original)
 00:1A:79:D6:0F:EF	Active	March 4, 2026, 12:00 am 84 Days
@@ -109,4 +148,5 @@ MAC Address	Status (as reported)	Expiry (original)
 00:1A:79:24:76:4d	Active	August 27, 2026, 12:00 am
 00:1A:79:33:62:8e	Active	December 15, 2025, 12:00 am
 00:1A:79:b8:8b:08	Active	February 9, 2026, 12:12 pm
+
 
