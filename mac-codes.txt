@@ -2,6 +2,36 @@
 📺 Telegram : https://t.me/xtremcodeclub 📺
 🅰➤URL➤ www.iptvcodes.org
 
+Portal: http://line.moja-teve9.me:80
+MAC Address	Status (as reported)	Expiry (original)
+00:1A:79:B7:74:F6	Active	September 14, 2026, 12:00 am 276 Days
+00:1A:79:78:C6:F0	Active	September 17, 2026, 12:00 am 281 Days
+00:1A:79:B5:AD:6B	Active	August 30, 2026, 12:00 am 261 Days
+00:1A:79:B6:D1:47	Active	September 23, 2026, 12:00 am 287 Days
+00:1A:79:BD:26:1A	Active	May 3, 2026, 2:00 am 144 Days
+00:1A:79:BE:D9:BC	Active	August 9, 2026, 12:00 am 242 Days
+00:1A:79:00:1D:67	Active	August 17, 2026, 12:00 am 250 Days
+00:1A:79:1E:03:0D	Active	May 16, 2026, 12:00 am 157 Days
+00:1A:79:74:8D:A5	Active	January 6, 2026, 1:00 am 27 Days
+00:1A:79:C7:09:0B	Active	August 5, 2026, 3:41 pm
+00:1A:79:52:DE:84	Active	March 25, 2026, 12:00 am
+00:1A:79:FB:F6:6B	Active	January 16, 2026, 12:00 am
+00:1A:79:00:04:10	Active	September 9, 2026, 1:58 am
+00:1A:79:F5:FA:00	Active	May 31, 2026, 12:00 am
+00:1A:79:77:84:0A	Active	December 20, 2025, 11:11 pm
+00:1A:79:55:74:17	Active	April 5, 2026, 10:44 pm
+00:1A:79:B7:E2:DD	Active	December 29, 2025, 5:48 pm
+00:1A:79:00:00:A1	Active	December 23, 2025, 12:00 am
+00:1A:79:57:E9:14	Active	June 11, 2026, 12:00 am
+00:1A:79:00:9A:F3	Active	March 25, 2026, 12:00 am
+00:1A:79:D0:97:30	Active	January 16, 2026, 12:00 am
+00:1A:79:BE:10:03	Active	September 9, 2026, 1:58 am
+00:1A:79:33:34:37	Active	May 31, 2026, 12:00 am
+00:1A:79:59:47:22	Active	August 27, 2026, 4:22 am
+00:1A:79:C0:10:76	Active	August 19, 2026, 8:40 pm
+00:1a:79:a7:92:75	Active	January 17, 2026, 12:00 am
+00:1A:79:A3:69:37	Active	May 17, 2026, 12:00 am
+
 Portal: http://itran-xplus.xyz/c/
 MAC Address	Status (as reported)	Expiry (original)
 00:1A:79:b3:37:44	Active	September 14, 2026, 12:00 am 276 Days
@@ -148,5 +178,6 @@ MAC Address	Status (as reported)	Expiry (original)
 00:1A:79:24:76:4d	Active	August 27, 2026, 12:00 am
 00:1A:79:33:62:8e	Active	December 15, 2025, 12:00 am
 00:1A:79:b8:8b:08	Active	February 9, 2026, 12:12 pm
+
 
 
